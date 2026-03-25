@@ -1,0 +1,38 @@
+name: Update Cangjie SDK Versions
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: pnpm/action-setup@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'pnpm'
+
+      - run: pnpm install --frozen-lockfile
+
+      - run: pnpm scrape
+
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          commit-message: 'chore: update Cangjie SDK versions'
+          title: 'chore: update Cangjie SDK versions'
+          body: |
+            Automated update of `versions.json` with latest
+            Cangjie SDK version information from cangjie-lang.cn.
+          branch: auto/update-versions
+          delete-branch: true
+          labels: automated

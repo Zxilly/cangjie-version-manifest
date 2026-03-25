@@ -1,0 +1,232 @@
+{
+  "channels": {
+    "sts": {
+      "versions": {
+        "0.53.13": {
+          "win32-x64": {
+            "name": "Cangjie-0.53.13-windows_x64.zip",
+            "sha256": "C25D2B50E0F5AAE54CBDAFE3BE24A84C9B1E27A243B573FDC585963E4DEDDC56",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.13-windows_x64.zip&objectKey=6719f1e13af6947e3c6af326"
+          },
+          "darwin-arm64": {
+            "name": "Cangjie-0.53.13-darwin_aarch64.tar.gz",
+            "sha256": "93D0CBFBE318F6A714A37BBCC3707E0070E830F35B85C228E92D358F68CA28C6",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.13-darwin_aarch64.tar.gz&objectKey=6719f1b33af6947e3c6af322"
+          },
+          "darwin-x64": {
+            "name": "Cangjie-0.53.13-darwin_x64.tar.gz",
+            "sha256": "CCE692D7E338F3547D283CD68FB29EDC8AB0747CAC7E6A7702452FABFAA6B918",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.13-darwin_x64.tar.gz&objectKey=6719f1c13af6947e3c6af325"
+          },
+          "linux-arm64": {
+            "name": "Cangjie-0.53.13-linux_aarch64.tar.gz",
+            "sha256": "9B4027B6FB4DFFC34D98B26AAE30F51329A32EE423B7ADC1D35349AAEC74FF9A",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.13-linux_aarch64.tar.gz&objectKey=6719f1ec3af6947e3c6af328"
+          },
+          "linux-x64": {
+            "name": "Cangjie-0.53.13-linux_x64.tar.gz",
+            "sha256": "B3C0087DB26005F6316767FD7CCBFC40F721CFD2D092F94BF39A621C7D91FBBB",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.13-linux_x64.tar.gz&objectKey=6719f1eb3af6947e3c6af327"
+          }
+        },
+        "0.53.18": {
+          "win32-x64": {
+            "name": "Cangjie-0.53.18-windows_x64.zip",
+            "sha256": "74080EFA705212C4E494A8C18D40293BED9CE3020EEC357C6A288FA6E6B4D379",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.18-windows_x64.zip&objectKey=67a2c8a26a75297d1cdc1d4e"
+          },
+          "darwin-arm64": {
+            "name": "Cangjie-0.53.18-darwin_aarch64.tar.gz",
+            "sha256": "0044B6810EF78B19EC451EF0514A8D4DE1634AE36E4680746E89B329B381991E",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.18-darwin_aarch64.tar.gz&objectKey=67a2c88e6a75297d1cdc1d4b"
+          },
+          "darwin-x64": {
+            "name": "Cangjie-0.53.18-darwin_x64.tar.gz",
+            "sha256": "2CE777C02C5C0C264CE6A2A1BBAF46ED981698C43CD967B096D2ECC116C29801",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.18-darwin_x64.tar.gz&objectKey=67a2c8976a75297d1cdc1d4d"
+          },
+          "linux-arm64": {
+            "name": "Cangjie-0.53.18-linux_aarch64.tar.gz",
+            "sha256": "071ABDB83D9FFA6F070C6ABCC8D08FA1F8AC3F4381BAB64560D0399B3AF17EEE",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.18-linux_aarch64.tar.gz&objectKey=67a2c8606a75297d1cdc1d48"
+          },
+          "linux-x64": {
+            "name": "Cangjie-0.53.18-linux_x64.tar.gz",
+            "sha256": "8A9EF6B3BA5C58696A1E23FAB8FF5DCA3E6BC8BACF2A0A894BBA4296C54C8DB1",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=Cangjie-0.53.18-linux_x64.tar.gz&objectKey=67a2c8976a75297d1cdc1d4c"
+          }
+        },
+        "1.1.0-beta.23": {
+          "win32-x64": {
+            "name": "cangjie-sdk-windows-x64-1.1.0-beta.23.zip",
+            "sha256": "d67c91871ecb7c5015eb1d08f1b10acc000ae845df819d25bbcc780abea4c146",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-windows-x64-1.1.0-beta.23.zip&objectKey=69b7a6086e8ed61e6e07fd2d"
+          },
+          "darwin-arm64": {
+            "name": "cangjie-sdk-mac-aarch64-1.1.0-beta.23.tar.gz",
+            "sha256": "ffa930c1ec6a6690193584d6e04518fbb6924c876ad9f3d86b225d51c3764377",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-aarch64-1.1.0-beta.23.tar.gz&objectKey=69b7a4f26e8ed61e6e07fd2a"
+          },
+          "darwin-x64": {
+            "name": "cangjie-sdk-mac-x64-1.1.0-beta.23.tar.gz",
+            "sha256": "b60f3fc059c66779de73ef91aa000be4ac78466717cfd55f5f979373978b7ced",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-x64-1.1.0-beta.23.tar.gz&objectKey=69b7a4fc6e8ed61e6e07fd2b"
+          },
+          "linux-arm64": {
+            "name": "cangjie-sdk-linux-aarch64-1.1.0-beta.23.tar.gz",
+            "sha256": "18db1f56ad5cd9df3475114459985d882d8058bbbd02e096fe48453a3b9d9394",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-aarch64-1.1.0-beta.23.tar.gz&objectKey=69b7a69b6e8ed61e6e07fd2e"
+          },
+          "linux-x64": {
+            "name": "cangjie-sdk-linux-x64-1.1.0-beta.23.tar.gz",
+            "sha256": "cfd9f4e8b435b75be808484f120e81d0004b46b857567cd0ab84c32c458b6cf6",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.1.0-beta.23.tar.gz&objectKey=69b7a52a6e8ed61e6e07fd2c"
+          }
+        },
+        "1.1.0-beta.24": {
+          "win32-x64": {
+            "name": "cangjie-sdk-windows-x64-1.1.0-beta.24.zip",
+            "sha256": "971242d5bbfc5137eb958d0160819b210b91b8c18f3a91712c374c60621bfcbe",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-windows-x64-1.1.0-beta.24.zip&objectKey=69c101766e8ed61e6e07fd33"
+          },
+          "darwin-arm64": {
+            "name": "cangjie-sdk-mac-aarch64-1.1.0-beta.24.tar.gz",
+            "sha256": "ef4268da585673dbc07d88b5e7172a5fe96d2d6ce82278ca2703eaf3f501eb65",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-aarch64-1.1.0-beta.24.tar.gz&objectKey=69c1014a6e8ed61e6e07fd31"
+          },
+          "darwin-x64": {
+            "name": "cangjie-sdk-mac-x64-1.1.0-beta.24.tar.gz",
+            "sha256": "dfa5a5bba0fd13d0ac870af75c9a35196891726c538c708473596d3d4aaaf161",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-x64-1.1.0-beta.24.tar.gz&objectKey=69c101536e8ed61e6e07fd32"
+          },
+          "linux-arm64": {
+            "name": "cangjie-sdk-linux-aarch64-1.1.0-beta.24.tar.gz",
+            "sha256": "3293f10fd0feaaa7febbafa2138a135589ea2de636bf277cc472dcf93cda9c2e",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-aarch64-1.1.0-beta.24.tar.gz&objectKey=69c1028a6e8ed61e6e07fd35"
+          },
+          "linux-x64": {
+            "name": "cangjie-sdk-linux-x64-1.1.0-beta.24.tar.gz",
+            "sha256": "7cd6fe02d67480ab2c11bdceaf002d870c17dc894eb5fcbf8fb2ba5466ecd947",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.1.0-beta.24.tar.gz&objectKey=69c102166e8ed61e6e07fd34"
+          }
+        }
+      },
+      "latest": "1.1.0-beta.24"
+    },
+    "lts": {
+      "versions": {
+        "1.0.0": {
+          "win32-x64": {
+            "name": "cangjie-sdk-windows-x64-1.0.0.zip",
+            "sha256": "41375cc38b32a4dcca9e0576d23ff3f6f8f5d0dca6ca9c52ad1545e7df22b21f",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-windows-x64-1.0.0.zip&objectKey=6863801f3bcda926055851dc"
+          },
+          "darwin-arm64": {
+            "name": "cangjie-sdk-mac-aarch64-1.0.0.tar.gz",
+            "sha256": "e8cdf8570678d116b99186411da94a425f2febc5eee84624a98a5be7df03158d",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-aarch64-1.0.0.tar.gz&objectKey=68637e5c3bcda926055851d9"
+          },
+          "linux-arm64": {
+            "name": "cangjie-sdk-linux-aarch64-1.0.0.tar.gz",
+            "sha256": "2da22ab90c302155658f7f554aa33b5f4de7870949cc79cb44c9ebf20b83793a",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-aarch64-1.0.0.tar.gz&objectKey=68637e793bcda926055851da"
+          },
+          "linux-x64": {
+            "name": "cangjie-sdk-linux-x64-1.0.0.tar.gz",
+            "sha256": "8894e63a181bc0534af24263b449c2d8d4d9dfb16ff1270b793499fe06ce6dcf",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.0.0.tar.gz&objectKey=68637fc53bcda926055851db"
+          }
+        },
+        "1.0.1": {
+          "win32-x64": {
+            "name": "cangjie-sdk-windows-x64-1.0.1.zip",
+            "sha256": "6ca763dabf1ee43fccc420f96a6ca827d5116dcbe0ef2a5c80869194124bcaa8",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-windows-x64-1.0.1.zip&objectKey=68a6780fd1b22272d50f15ee"
+          },
+          "darwin-arm64": {
+            "name": "cangjie-sdk-mac-aarch64-1.0.1.tar.gz",
+            "sha256": "4c332718699d91bb37a8ef552b123279ac260ab6da75afd81a00e2e1bff71b5c",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-aarch64-1.0.1.tar.gz&objectKey=68a677f8d1b22272d50f15ed"
+          },
+          "linux-arm64": {
+            "name": "cangjie-sdk-linux-aarch64-1.0.1.tar.gz",
+            "sha256": "dbc11eedb6ff60d846c8d3d12776cb461086127302e4d9e375f16054a6c92eec",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-aarch64-1.0.1.tar.gz&objectKey=68a67947d1b22272d50f15f1"
+          },
+          "linux-x64": {
+            "name": "cangjie-sdk-linux-x64-1.0.1.tar.gz",
+            "sha256": "b0046ef76beb5df9a515e5b37f700e88f2b20413fddb3694c2d6ab4860497a3f",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.0.1.tar.gz&objectKey=68a67996d1b22272d50f15f2"
+          }
+        },
+        "1.0.3": {
+          "win32-x64": {
+            "name": "cangjie-sdk-windows-x64-1.0.3.zip",
+            "sha256": "F5C2AAE73732805E666459F7A787FB146387AF32E2FBA1105DB221C34AA2BE89",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-windows-x64-1.0.3.zip&objectKey=68e725043115f673ef1280fa"
+          },
+          "darwin-arm64": {
+            "name": "cangjie-sdk-mac-aarch64-1.0.3.tar.gz",
+            "sha256": "047903CB89724F0134D475647FA94D70612A7F9C26A0D61473432E14CA0F3BE9",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-aarch64-1.0.3.tar.gz&objectKey=68e724fb3115f673ef1280f9"
+          },
+          "linux-arm64": {
+            "name": "cangjie-sdk-linux-aarch64-1.0.3.tar.gz",
+            "sha256": "9686B609ACDFB704012AE4BCAA64398D52930C32688A1CFDED4223E91D670899",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-aarch64-1.0.3.tar.gz&objectKey=68e7251a3115f673ef1280fb"
+          },
+          "linux-x64": {
+            "name": "cangjie-sdk-linux-x64-1.0.3.tar.gz",
+            "sha256": "0F1312D337083B49E5ECEC2554D35951AF4AAB88C712CE606249CFD79F3C30F6",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.0.3.tar.gz&objectKey=68e725c23115f673ef1280fc"
+          }
+        },
+        "1.0.4": {
+          "win32-x64": {
+            "name": "cangjie-sdk-windows-x64-1.0.4.zip",
+            "sha256": "17D5AB1090F9A1419E670B4E15448402E8A5E4A2A9DBC2722290E8734FF514F7",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-windows-x64-1.0.4.zip&objectKey=691154c8a1061e7e7ef142de"
+          },
+          "darwin-arm64": {
+            "name": "cangjie-sdk-mac-aarch64-1.0.4.tar.gz",
+            "sha256": "E147F8BEB36B98AC049A0C95AE923589D57EC01CBD3C8B7EB58C0721CAF10B8F",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-aarch64-1.0.4.tar.gz&objectKey=6911551ca1061e7e7ef142df"
+          },
+          "linux-arm64": {
+            "name": "cangjie-sdk-linux-aarch64-1.0.4.tar.gz",
+            "sha256": "08FF3207021A127799B2E688DAD30572EC2CACE7F5C72DEBF6F03F172BC0B61F",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-aarch64-1.0.4.tar.gz&objectKey=691155b0a1061e7e7ef142e0"
+          },
+          "linux-x64": {
+            "name": "cangjie-sdk-linux-x64-1.0.4.tar.gz",
+            "sha256": "651D94F7BB0BE349C2D3C6F5BE45689187C2703A9BDBA0C8DE117363A1A67D8C",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.0.4.tar.gz&objectKey=691154b9a1061e7e7ef142dd"
+          }
+        },
+        "1.0.5": {
+          "win32-x64": {
+            "name": "cangjie-sdk-windows-x64-1.0.5.zip",
+            "sha256": "08C6C1DD0DE73396F63AC85085D635E79CE84FEF98D330CB00869B4FC8F1CB2E",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-windows-x64-1.0.5.zip&objectKey=698acebfbd66ae22b62330af"
+          },
+          "darwin-arm64": {
+            "name": "cangjie-sdk-mac-aarch64-1.0.5.tar.gz",
+            "sha256": "E07D22584237F065B30A771B7110A87A8931334C40BE3A148090944AE916ED1F",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-aarch64-1.0.5.tar.gz&objectKey=698acea5bd66ae22b62330ae"
+          },
+          "linux-arm64": {
+            "name": "cangjie-sdk-linux-aarch64-1.0.5.tar.gz",
+            "sha256": "C0DC48B8851FD87853308BF0EF5CCE7040F8681AE8A53005D5DAC81657745A35",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-aarch64-1.0.5.tar.gz&objectKey=698acfa3bd66ae22b62330b1"
+          },
+          "linux-x64": {
+            "name": "cangjie-sdk-linux-x64-1.0.5.tar.gz",
+            "sha256": "BACAD84DF8E0281C5395BAB4C40E481E3EA6CC712EED5C953903B0D561A14562",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.0.5.tar.gz&objectKey=698acf46bd66ae22b62330b0"
+          }
+        }
+      },
+      "latest": "1.0.5"
+    }
+  }
+}
