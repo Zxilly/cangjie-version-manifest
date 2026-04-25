@@ -1,4 +1,4 @@
-import { writeFileSync } from "fs";
+import { writeFile } from "fs/promises";
 import { dirname, join } from "path";
 import { fileURLToPath } from "url";
 import { getAllJsUrls, fetchUrl } from "./fetcher.js";
@@ -9,48 +9,47 @@ import type { VersionMap } from "./schema.js";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const OUTPUT_PATH = join(__dirname, "..", "versions.json");
 
-async function main(): Promise<void> {
-  const jsUrls = await getAllJsUrls();
-
-  let versionMap: VersionMap | null = null;
-  let matchedUrl: string | null = null;
-
+async function findVersionMap(jsUrls: string[]): Promise<{ url: string; map: VersionMap }> {
   for (const url of jsUrls) {
-    console.error(`[2] 尝试解析: ${url}`);
+    console.error(`Probing ${url}`);
     let content: string;
     try {
       content = await fetchUrl(url);
-    } catch {
-      console.error("    → 拉取失败，跳过");
+    } catch (e) {
+      console.error(`  fetch failed: ${(e as Error).message}`);
       continue;
     }
-    const result = tryParseVersionScript(content);
-    if (result) {
-      versionMap = result;
-      matchedUrl = url;
-      console.error("    → 命中版本数据！");
-      break;
+    const map = tryParseVersionScript(content);
+    if (map) {
+      console.error("  matched version data");
+      return { url, map };
     }
-    console.error("    → 未包含版本数据");
+  }
+  throw new Error(`No version data found in ${jsUrls.length} script(s)`);
+}
+
+async function main(): Promise<void> {
+  const jsUrls = await getAllJsUrls();
+  if (jsUrls.length === 0) throw new Error("No <script src> tags found on download page");
+
+  const { url, map } = await findVersionMap(jsUrls);
+  console.error(`Source: ${url}`);
+  console.error(`Versions: ${Object.keys(map).join(", ") || "(none)"}`);
+
+  const manifest = transformVersionData(map);
+  const stsCount = Object.keys(manifest.channels.sts.versions).length;
+  const ltsCount = Object.keys(manifest.channels.lts.versions).length;
+  console.error(`STS: ${stsCount}, LTS: ${ltsCount}`);
+
+  if (stsCount === 0 && ltsCount === 0) {
+    throw new Error("Transformed manifest is empty — refusing to overwrite output");
   }
 
-  if (!versionMap || !matchedUrl) {
-    throw new Error(`在 ${jsUrls.length} 个 JS 文件中均未找到版本数据`);
-  }
-
-  console.error("    → 来源:", matchedUrl);
-  console.error("    → 共找到版本:", Object.keys(versionMap).join(", "));
-
-  const manifest = transformVersionData(versionMap);
-  console.error("    → STS 版本数:", Object.keys(manifest.channels.sts.versions).length);
-  console.error("    → LTS 版本数:", Object.keys(manifest.channels.lts.versions).length);
-
-  const json = JSON.stringify(manifest, null, 2) + "\n";
-  writeFileSync(OUTPUT_PATH, json);
-  console.error("    → 已写入:", OUTPUT_PATH);
+  await writeFile(OUTPUT_PATH, JSON.stringify(manifest, null, 2) + "\n");
+  console.error(`Wrote ${OUTPUT_PATH}`);
 }
 
 main().catch((e: Error) => {
-  console.error("Fatal error:", e.message);
+  console.error(`Fatal: ${e.message}`);
   process.exit(1);
 });

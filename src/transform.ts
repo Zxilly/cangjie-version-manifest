@@ -1,27 +1,12 @@
+import semver from "semver";
 import type { Platform, SdkPackage, VersionMap, VersionPackages } from "./schema.js";
 
-function compareSemver(a: string, b: string): number {
-  const pa = a.split(/[-.]/).map((s) => (/^\d+$/.test(s) ? Number(s) : s));
-  const pb = b.split(/[-.]/).map((s) => (/^\d+$/.test(s) ? Number(s) : s));
-  const len = Math.max(pa.length, pb.length);
-  for (let i = 0; i < len; i++) {
-    const va = pa[i], vb = pb[i];
-    if (va === undefined) return -1;
-    if (vb === undefined) return 1;
-    if (typeof va === "number" && typeof vb === "number") {
-      if (va !== vb) return va - vb;
-    } else {
-      const sa = String(va), sb = String(vb);
-      if (sa !== sb) return sa < sb ? -1 : 1;
-    }
-  }
-  return 0;
-}
+const SITE_BASE_URL = "https://cangjie-lang.cn";
 
 function latestVersion(versions: Record<string, unknown>): string | null {
-  const keys = Object.keys(versions);
-  if (keys.length === 0) return null;
-  return keys.sort(compareSemver).at(-1)!;
+  const valid = Object.keys(versions).filter((v) => semver.valid(v) !== null);
+  if (valid.length === 0) return null;
+  return valid.sort(semver.compare).at(-1)!;
 }
 
 export function detectPlatform(filename: string): Platform | null {
@@ -32,6 +17,11 @@ export function detectPlatform(filename: string): Platform | null {
   if (n.includes("linux-aarch64") || n.includes("linux_aarch64")) return "linux-arm64";
   if (n.includes("linux-x64") || n.includes("linux_x64")) return "linux-x64";
   return null;
+}
+
+function resolvePackageUrl(url: string): string {
+  if (/^https?:\/\//i.test(url)) return url;
+  return new URL(url, SITE_BASE_URL).toString();
 }
 
 export interface ChannelData {
@@ -56,24 +46,22 @@ export function transformVersionData(versionMap: VersionMap): OutputManifest {
     for (const group of data.list) {
       for (const platformGroup of group.list) {
         for (const pkg of platformGroup.list) {
-          if (!pkg?.name || pkg.name.endsWith(".exe")) continue;
-          const platform = detectPlatform(pkg.name);
-          if (platform) {
-            packages[platform] = {
-              name: pkg.name,
-              sha256: pkg.sha ?? "",
-              url: pkg.url?.startsWith("http")
-                ? pkg.url
-                : `https://cangjie-lang.cn${pkg.url}`,
-            } satisfies SdkPackage;
-          }
+          const name = pkg.name;
+          if (!name || name.toLowerCase().endsWith(".exe")) continue;
+          const platform = detectPlatform(name);
+          if (!platform) continue;
+          packages[platform] = {
+            name,
+            sha256: pkg.sha,
+            url: resolvePackageUrl(pkg.url),
+          } satisfies SdkPackage;
         }
       }
     }
 
-    if (Object.keys(packages).length > 0) {
-      (data.versiontype === "LTS" ? ltsVersions : stsVersions)[version] = packages;
-    }
+    if (Object.keys(packages).length === 0) continue;
+    const bucket = data.versiontype === "LTS" ? ltsVersions : stsVersions;
+    bucket[version] = packages;
   }
 
   return {
