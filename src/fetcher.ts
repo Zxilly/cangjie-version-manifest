@@ -1,7 +1,7 @@
 import https from "https";
 import { parse as parseHtml } from "node-html-parser";
 
-const TARGET_PAGE = "https://cangjie-lang.cn/download/1.1.0-beta.24";
+const TARGET_PAGE = "https://cangjie-lang.cn/download/1.1.0";
 const REQUEST_TIMEOUT_MS = 30_000;
 const MAX_REDIRECTS = 5;
 const USER_AGENT = "Mozilla/5.0 (cangjie-version-manifest scraper)";

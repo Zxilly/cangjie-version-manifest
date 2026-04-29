@@ -11,7 +11,7 @@ The [`versions.json`](./versions.json) file contains all available SDK versions,
   "channels": {
     "sts": {
       "versions": { /* ... */ },
-      "latest": "1.1.0-beta.24"
+      "latest": "1.1.0"
     },
     "lts": {
       "versions": { /* ... */ },
@@ -21,17 +21,23 @@ The [`versions.json`](./versions.json) file contains all available SDK versions,
 }
 ```
 
-Each version entry is keyed by platform:
+Each version entry is keyed by toolchain. Native SDKs use the host platform key:
 
-| Key | Platform |
-|-----|----------|
+| Key | Host platform |
+|-----|---------------|
 | `win32-x64` | Windows x64 |
 | `darwin-arm64` | macOS Apple Silicon |
 | `darwin-x64` | macOS Intel |
 | `linux-arm64` | Linux AArch64 |
 | `linux-x64` | Linux x64 |
+| `ohos-arm64` | OpenHarmony AArch64 |
+| `ohos-x64` | OpenHarmony x64 |
 
-Each platform entry contains `name`, `sha256`, and `url`.
+Cross-compilation SDKs use `<host-platform>-<target>`, where `target` preserves the
+target platform tokens published by upstream. For example, `win32-x64-ohos`,
+`darwin-arm64-ios`, `linux-x64-android`, and `win32-x64-ohos-arm32`.
+
+Each toolchain entry contains `name`, `sha256`, and `url`.
 
 ## Automation
 

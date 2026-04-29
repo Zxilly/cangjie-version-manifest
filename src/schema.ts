@@ -33,13 +33,19 @@ export const VersionMapSchema = z.record(z.string(), RawVersionDataSchema);
 
 // ─── 输出 Schema ──────────────────────────────────────────────────────────────
 
-export const PlatformSchema = z.enum([
+export const HostPlatformSchema = z.enum([
   "win32-x64",
   "darwin-arm64",
   "darwin-x64",
   "linux-arm64",
   "linux-x64",
+  "ohos-arm64",
+  "ohos-x64",
 ]);
+
+export const PlatformSchema = HostPlatformSchema;
+
+export const ToolchainKeySchema = z.string().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/);
 
 export const SdkPackageSchema = z.object({
   name: z.string(),
@@ -49,7 +55,9 @@ export const SdkPackageSchema = z.object({
 
 // ─── 推导类型 ─────────────────────────────────────────────────────────────────
 
-export type Platform = z.infer<typeof PlatformSchema>;
+export type HostPlatform = z.infer<typeof HostPlatformSchema>;
+export type Platform = HostPlatform;
+export type ToolchainKey = z.infer<typeof ToolchainKeySchema>;
 export type SdkPackage = z.infer<typeof SdkPackageSchema>;
-export type VersionPackages = Partial<Record<Platform, SdkPackage>>;
+export type VersionPackages = Partial<Record<ToolchainKey, SdkPackage>>;
 export type VersionMap = z.infer<typeof VersionMapSchema>;
