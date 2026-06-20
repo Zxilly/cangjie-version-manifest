@@ -39,6 +39,43 @@ target platform tokens published by upstream. For example, `win32-x64-ohos`,
 
 Each toolchain entry contains `name`, `sha256`, and `url`.
 
+### Components
+
+Alongside `versions`, each channel carries a `components` map keyed by SDK version.
+It holds the download links for the toolchain add-ons — `docs` (the main
+documentation), `stdx-docs` (the stdx API documentation), and `stdx` (the stdx
+binaries, keyed by archive platform token):
+
+```jsonc
+{
+  "channels": {
+    "sts": {
+      "components": {
+        "1.1.0-beta.25": {
+          "docs":      { "name": "cangjie-docs-html-1.1.0-beta.25.tar.gz", "url": "..." },
+          "stdx-docs": { "name": "cangjie-stdx-docs-html-1.1.0-beta.25.1.tar.gz", "url": "..." },
+          "stdx": {
+            "linux-x64":     { "name": "cangjie-stdx-linux-x64-1.1.0-beta.25.1.zip", "url": "..." },
+            "ohos-aarch64":  { "name": "cangjie-stdx-ohos-aarch64-1.1.0-beta.25.1.zip", "url": "..." }
+            /* ... */
+          }
+        }
+      }
+    }
+  }
+}
+```
+
+These links are taken verbatim from the upstream release APIs (gitcode
+`cangjie_stdx` for `stdx` / `stdx-docs`, `cangjie-docs-bundle` for `docs`) rather
+than reconstructed, because the upstream release tags and asset filenames do not
+follow a consistent rule. The `stdx` platform tokens match the archive filenames
+(e.g. `linux-x64`, `linux-aarch64`, `mac-aarch64`, `windows-x64`, `ohos-aarch64`,
+`ohos-x64`, `android-aarch64`, `ios-aarch64`, `ios-simulator-x64`). A component
+entry carries only `name` and `url`; these archives ship without a published
+checksum. A version appears under `components` only for the add-ons it actually
+publishes.
+
 ## Automation
 
 A GitHub Actions workflow runs every 6 hours to scrape the latest version data from cangjie-lang.cn. If `versions.json` changes, a PR is automatically created.

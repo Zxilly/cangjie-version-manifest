@@ -3,9 +3,16 @@ import type {
   HostPlatform,
   SdkPackage,
   ToolchainKey,
+  VersionComponents,
   VersionMap,
   VersionPackages,
 } from "./schema.js";
+import {
+  buildComponentsForVersions,
+  collectDocsComponents,
+  collectStdxComponents,
+  type RawRelease,
+} from "./components.js";
 
 const SITE_BASE_URL = "https://cangjie-lang.cn";
 
@@ -108,6 +115,8 @@ function resolvePackageUrl(url: string): string {
 export interface ChannelData {
   versions: Record<string, VersionPackages>;
   latest: string | null;
+  // doc / stdx / stdx-doc 下载链接, 按版本收录（仅含有组件的版本）。
+  components?: Record<string, VersionComponents>;
 }
 
 export interface OutputManifest {
@@ -115,6 +124,23 @@ export interface OutputManifest {
     sts: ChannelData;
     lts: ChannelData;
   };
+}
+
+// attachComponents 用 stdx / docs 两个 release 源为清单里的每个 channel 版本补上
+// 组件链接。它就地修改并返回传入的 manifest。
+export function attachComponents(
+  manifest: OutputManifest,
+  stdxReleases: RawRelease[],
+  docsReleases: RawRelease[],
+): OutputManifest {
+  const stdxByVersion = collectStdxComponents(stdxReleases);
+  const docsByVersion = collectDocsComponents(docsReleases);
+  for (const channel of [manifest.channels.sts, manifest.channels.lts]) {
+    const versions = Object.keys(channel.versions);
+    const components = buildComponentsForVersions(versions, stdxByVersion, docsByVersion);
+    if (Object.keys(components).length > 0) channel.components = components;
+  }
+  return manifest;
 }
 
 export function transformVersionData(versionMap: VersionMap): OutputManifest {

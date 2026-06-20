@@ -25,6 +25,10 @@ jobs:
       - run: pnpm install --frozen-lockfile
 
       - run: pnpm scrape
+        env:
+          # Lifts the GitHub API rate limit when fetching cangjie-docs-bundle
+          # releases for the doc component links.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: peter-evans/create-pull-request@c0f553fe549906ede9cf27b5156039d195d2ece0 # v8.1.0
         with:
