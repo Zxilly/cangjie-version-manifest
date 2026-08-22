@@ -967,7 +967,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251227020001.zip",
-            "sha256": "",
+            "sha256": "7096abec6dcc5e9ab92c80763bc8f0bb28a36bb824d585f1f2d8a221fc3a115d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-lalpha.20251227020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251227020001.zip"
           }
         },
@@ -1029,7 +1029,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251228020001.zip",
-            "sha256": "",
+            "sha256": "4cfd7f1722f92f9cf97ff823702e47cba72742c6bd2f3bf5412c8b8e3761eb20",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20251228020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251228020001.zip"
           }
         },
@@ -1096,7 +1096,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251229020001.zip",
-            "sha256": "",
+            "sha256": "64c7e053d0da9ba5256cb040b6b5ef14f136369a4a52cae34385d08be2cfc856",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20251229020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251229020001.zip"
           }
         },
@@ -1163,7 +1163,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251230020001.zip",
-            "sha256": "",
+            "sha256": "9e516d21d4c11d17c999ea172c219f35a913100b9616fbf0de48bb2caea3fdf8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20251230020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251230020001.zip"
           }
         },
@@ -1230,7 +1230,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251231020001.zip",
-            "sha256": "",
+            "sha256": "1e5aeef523ac1416e782d92aff5343488e7621cde810420f9eabc2161e3e302d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20251231020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20251231020001.zip"
           }
         },
@@ -1297,7 +1297,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260101020001.zip",
-            "sha256": "",
+            "sha256": "fd0d8b6bd890ae1f38a1afb1a0562e767a1e10fdfee1944f75d86a4581477e68",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260101020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260101020001.zip"
           }
         },
@@ -1364,7 +1364,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260102020001.zip",
-            "sha256": "",
+            "sha256": "e719bf6cd8a986ff137e9b163713e150160c2cef1c01ea44d18b0d874c645955",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260102020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260102020001.zip"
           }
         },
@@ -1431,7 +1431,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260103020001.zip",
-            "sha256": "",
+            "sha256": "656b6cdf91589b0c12d3547341227048887ca06cc4ea550b47986f442955b0ad",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260103020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260103020001.zip"
           }
         },
@@ -1498,7 +1498,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260104020001.zip",
-            "sha256": "",
+            "sha256": "a4175dbe02b3754c50dbb0a4126d0fdb8f89a1da2e992e3f52efb9370d8952d8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260104020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260104020001.zip"
           }
         },
@@ -1565,7 +1565,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260105020002.zip",
-            "sha256": "",
+            "sha256": "895b5d39a68a27b8affef6cc07a45a30e5cf498763ce4753c986eb5b72eeb73f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260105020002/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260105020002.zip"
           }
         },
@@ -1632,7 +1632,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260106020001.zip",
-            "sha256": "",
+            "sha256": "06de85656cd54526f1264467c49bc6b3502ec42a12a42dbae3b8a00d9d73014e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260106020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260106020001.zip"
           }
         },
@@ -1699,7 +1699,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260107020002.zip",
-            "sha256": "",
+            "sha256": "688b6e5294ec8ae66595fb03e91d697f974660f6173e0e20a4e69638b4174b3f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260107020002/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260107020002.zip"
           }
         },
@@ -1766,7 +1766,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260108020001.zip",
-            "sha256": "",
+            "sha256": "4e4429590e87726d2dd8702095a3c2a460e469c0d4514b3d69d7b5c99b09de43",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260108020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260108020001.zip"
           }
         },
@@ -1833,7 +1833,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260109020000.zip",
-            "sha256": "",
+            "sha256": "bce07770ae8be6034a6fcbdc32aee64a5dcdb448faa805af161990c2c8d8a09d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260109020000/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260109020000.zip"
           }
         },
@@ -1905,7 +1905,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260112200827.zip",
-            "sha256": "",
+            "sha256": "21433186927e666d189c062071a794a4f099ff0828ed0a529f6dd18f7dd7b3b2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260112200827/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260112200827.zip"
           }
         },
@@ -1977,7 +1977,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260113020001.zip",
-            "sha256": "",
+            "sha256": "99a648f5888b3af3d4b8dbc0745244e7c86e81f5b091a27ea6006f95d17ae8b2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260113020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260113020001.zip"
           }
         },
@@ -2044,7 +2044,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260114020001.zip",
-            "sha256": "",
+            "sha256": "a33b4d56abc655b01c71dd67f7cba072b2625549d93036f560de41b6becd1e4c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260114020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260114020001.zip"
           }
         },
@@ -2116,7 +2116,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260115020001.zip",
-            "sha256": "",
+            "sha256": "ac6ff55e03a5dbd2dfe2b0e8b16f104786aff72801a0fb651ef58f64c5b6cec9",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260115020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260115020001.zip"
           }
         },
@@ -2188,7 +2188,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260116020001.zip",
-            "sha256": "",
+            "sha256": "c832025562b047a110ab8fb439bb8b0f6ddb0a631e9bae6559fe0f25cf374bcc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260116020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260116020001.zip"
           }
         },
@@ -2260,7 +2260,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260117020001.zip",
-            "sha256": "",
+            "sha256": "2955ee5d9e05e0bc2deba3ca690d1c7abcf40b2d3a78fbecd60026784a5faeb4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260117020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260117020001.zip"
           }
         },
@@ -2327,7 +2327,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260118130453.zip",
-            "sha256": "",
+            "sha256": "7569b13a5786f56b5ba3fe48e90e583eb1cdf2c49d168b23e53cb1b6b9ceb19c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260118130453/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260118130453.zip"
           }
         },
@@ -2394,7 +2394,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260119020001.zip",
-            "sha256": "",
+            "sha256": "412ee6ce6446a8dce4cf5d668705b1ab7df576baa2f5d6e9d2cb12060294faaf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260119020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260119020001.zip"
           }
         },
@@ -2461,7 +2461,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260120020001.zip",
-            "sha256": "",
+            "sha256": "942590812411f6badd5e02e09cc3467092e54a08f894151aa6011b4fdc266d90",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260120020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260120020001.zip"
           }
         },
@@ -2528,7 +2528,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260121020001.zip",
-            "sha256": "",
+            "sha256": "616ddc777e22d387916064219a9a6e7d9d78f8abf46e4767ef15a95fdc02bb25",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260121020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260121020001.zip"
           }
         },
@@ -2595,7 +2595,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260122020001.zip",
-            "sha256": "",
+            "sha256": "c555988cd95d0be51e13e6730dde770576568dd7360c93ac97f5f7c795457d6f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260122020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260122020001.zip"
           }
         },
@@ -2667,7 +2667,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260123020001.zip",
-            "sha256": "",
+            "sha256": "34ac66ce8c3daa53a567e7334ea0ef9802bff07f1474170778a57a9c609b607e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260123020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260123020001.zip"
           }
         },
@@ -2739,7 +2739,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260127020001.zip",
-            "sha256": "",
+            "sha256": "e6702d110abf6ad831d017a22131a504f8f8118a688938a86c07b28bd944475b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260127020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260127020001.zip"
           }
         },
@@ -2811,7 +2811,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260129020001.zip",
-            "sha256": "",
+            "sha256": "9ab6471d604c5e20d82cbb452adb6673fcc4e5dfb05ecb54d5e2044c294fa98a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260129020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260129020001.zip"
           }
         },
@@ -2883,7 +2883,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260204020001.zip",
-            "sha256": "",
+            "sha256": "e37a589722621bd82ec864015c757b10e214a3ab3d678d8babfd4c85931bdcdf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260204020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260204020001.zip"
           }
         },
@@ -2955,7 +2955,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260205020001.zip",
-            "sha256": "",
+            "sha256": "e060f5b26b1289820a8290197923db1360b6de32f5a3562e37054243f61523a6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260205020001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260205020001.zip"
           }
         },
@@ -3136,7 +3136,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260208010002.zip",
-            "sha256": "",
+            "sha256": "fdb709a78408533b4bde273206e925b07223de3500998ce063f3dda33334f5e1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260208010002/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260208010002.zip"
           }
         },
@@ -3208,7 +3208,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260209010001.zip",
-            "sha256": "",
+            "sha256": "a865d5447304c4c30fc7a78255f7a7dee48765049f4a8e292288513f5954fe2c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260209010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260209010001.zip"
           }
         },
@@ -3280,7 +3280,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260210010001.zip",
-            "sha256": "",
+            "sha256": "173fdc18cd7d56b0bb37467df142af5a9bc9113dbcc4e7cb6831e1de8f52e495",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260210010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260210010001.zip"
           }
         },
@@ -3352,7 +3352,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260211010001.zip",
-            "sha256": "",
+            "sha256": "1e7900f4bf04a6d0bae09acff6f6c9c0d589edd4d56792c38277ed1b0349e372",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260211010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260211010001.zip"
           }
         },
@@ -3424,7 +3424,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260212010000.zip",
-            "sha256": "",
+            "sha256": "4982c32ac2639c72364a30635f761f361a6b1844992a29dcedc98e39b21edcd0",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260212010000/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260212010000.zip"
           }
         },
@@ -3491,7 +3491,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260213010000.zip",
-            "sha256": "",
+            "sha256": "13ab7e4e054b5329f4c664d9d058f8ac7a5b0a27aa754d362d950363ccc7fcf8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260213010000/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260213010000.zip"
           }
         },
@@ -3563,7 +3563,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260214010001.zip",
-            "sha256": "",
+            "sha256": "94c4470b3dd9828fb4d69167abe8b4e4b9c0a64b02f76dfb41a866b87fb8bda8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260214010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260214010001.zip"
           }
         },
@@ -3635,7 +3635,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260215010000.zip",
-            "sha256": "",
+            "sha256": "d4d90821ad1ea6e883395d7e9b5acab06018dbcec66ca8d2d37dce1613d1ff37",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260215010000/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260215010000.zip"
           }
         },
@@ -3707,7 +3707,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260216010001.zip",
-            "sha256": "",
+            "sha256": "3172af968766ee191e41bca4ca24423d1fe7e3a13681ab43c86cf8f55738aac6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260216010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260216010001.zip"
           }
         },
@@ -3779,7 +3779,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260217010001.zip",
-            "sha256": "",
+            "sha256": "3e65da36418bd0362f3dff4094183a09b45c0c56538a3e235272e52f0ebff45c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260217010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260217010001.zip"
           }
         },
@@ -3851,7 +3851,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260218010000.zip",
-            "sha256": "",
+            "sha256": "9938d447feb18ca07d21c03f2f7c7e105d5bb500cc326cb9a14288f682aa54dc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260218010000/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260218010000.zip"
           }
         },
@@ -3923,7 +3923,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260219010001.zip",
-            "sha256": "",
+            "sha256": "55094c0bcf00525a9b3dc22b3284f6802c34696f28c6346bbfe1f6e44d8af22a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260219010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260219010001.zip"
           }
         },
@@ -3995,7 +3995,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260220010001.zip",
-            "sha256": "",
+            "sha256": "bbf827f19ffb7c2f785ecc8b51f783ec6f642ce86e17d37d1afe742b80d6acc1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260220010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260220010001.zip"
           }
         },
@@ -4067,7 +4067,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260221010001.zip",
-            "sha256": "",
+            "sha256": "a6e38942171c8079c106ea39c555750bf84b1c28a94466489eaa58e51339a7ab",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260221010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260221010001.zip"
           }
         },
@@ -4139,7 +4139,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260222010001.zip",
-            "sha256": "",
+            "sha256": "3a5014a06d253808f006c89fbc09541932932421fa7a8486aada6a9dc0a29a6c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260222010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260222010001.zip"
           }
         },
@@ -4206,7 +4206,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260223010001.zip",
-            "sha256": "",
+            "sha256": "a1c6ea3cb2c1e03cc0ed93f09a99af54bb7aacb5f5ecadef2e5c64159c01839a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260223010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260223010001.zip"
           }
         },
@@ -4278,7 +4278,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260224010001.zip",
-            "sha256": "",
+            "sha256": "6763e4aa2cdaa16c43c6508403226f0807bfe8e068644906f1605cb4920e81e7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260224010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260224010001.zip"
           }
         },
@@ -4350,7 +4350,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260225010001.zip",
-            "sha256": "",
+            "sha256": "721ccf191fa30e61ca31979366033972c94113a5b11668e0d023d54b85560d70",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260225010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260225010001.zip"
           }
         },
@@ -4422,7 +4422,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260226010001.zip",
-            "sha256": "",
+            "sha256": "4397156943520b15e6658aefb97d9b9da5c981a84224b40504f5fdfcac4207df",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260226010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260226010001.zip"
           }
         },
@@ -4494,7 +4494,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260227010001.zip",
-            "sha256": "",
+            "sha256": "db8bc6a9513c68f4400ccfe9d92600b4bf3810a363ed1917c587e1c837e9b912",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260227010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260227010001.zip"
           }
         },
@@ -4566,7 +4566,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260228010001.zip",
-            "sha256": "",
+            "sha256": "9c2618ea60e02d3cb6eea34a1a62fbd8926400c89314cf02bdff6ad6f0fdf602",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260228010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260228010001.zip"
           }
         },
@@ -4618,7 +4618,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260301010001.zip",
-            "sha256": "",
+            "sha256": "9757ffae965c26c07ad6a128ab03357ff582f59bf07113a344dd939d4974264c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260301010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260301010001.zip"
           }
         },
@@ -4670,7 +4670,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260302010002.zip",
-            "sha256": "",
+            "sha256": "869df5d8a34f76cbaceec88431d57a83ede077d9610366331c9cdeff2a596f6a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260302010002/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260302010002.zip"
           }
         },
@@ -4732,7 +4732,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260303010001.zip",
-            "sha256": "",
+            "sha256": "40e74fd7234098a2fdbdc43f394f1b1ca521cbd8daa0cf76d7d262fc584b82e2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260303010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260303010001.zip"
           }
         },
@@ -4794,7 +4794,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260304010001.zip",
-            "sha256": "",
+            "sha256": "806f5c3eea9bd8a670ea08ba9fba4993417f6bb7d6e31fd8a36335e037b17f65",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260304010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260304010001.zip"
           }
         },
@@ -4861,7 +4861,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260305010001.zip",
-            "sha256": "",
+            "sha256": "7130c6baa984d5d9a7b5717022c0cd9b7da49c1f6cf814dc61174e06669c2dc5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260305010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260305010001.zip"
           }
         },
@@ -4928,7 +4928,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260306010001.zip",
-            "sha256": "",
+            "sha256": "85f9070d6d94137cc89c7a1e54433ddc6a5eb6c78ecfa66f011cb05b2ea02007",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260306010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260306010001.zip"
           }
         },
@@ -5000,7 +5000,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260307010001.zip",
-            "sha256": "",
+            "sha256": "191ab91f43095a7722d8b0cf6fac1e94fcbaf10a8277351446c7b37ec28335bf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260307010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260307010001.zip"
           }
         },
@@ -5072,7 +5072,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260308010001.zip",
-            "sha256": "",
+            "sha256": "2995791d99f501314438d99799c3745d4df39f8493eae708185b0a16583b0501",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260308010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260308010001.zip"
           }
         },
@@ -5144,7 +5144,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260309010001.zip",
-            "sha256": "",
+            "sha256": "808e18d89ec61f0430a2eea225d14eeb33b0d2d422811ebfb4b6299bd9f66edf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260309010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260309010001.zip"
           }
         },
@@ -5216,12 +5216,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260310010001.zip",
-            "sha256": "",
+            "sha256": "75f728f410496bd55584bdfeee76800ace4595e655465055730ae2d04ff83a50",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260310010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260310010001.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260310010001.zip",
-            "sha256": "",
+            "sha256": "2cad8ddae690f4100cdefbcd1980f38adc745f6381a826dbaebe07b3eb21966e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260310010001/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260310010001.zip"
           }
         },
@@ -5293,12 +5293,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260311010001.zip",
-            "sha256": "",
+            "sha256": "94d2d3284a3e29e28516f00547393f7ad60e9323b63d286ac58ef905d27b7802",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260311010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260311010001.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260311010001.zip",
-            "sha256": "",
+            "sha256": "e4464cd5276edf62c7a99ecc0e4d9977686f5a263e8fb966019feff47460e9b9",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260311010001/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260311010001.zip"
           }
         },
@@ -5370,12 +5370,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260312010000.zip",
-            "sha256": "",
+            "sha256": "c9f088adc6d8ba6f6bbedf1cef0b289db822cc5133da6464856694bb584b805d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260312010000/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260312010000.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260312010000.zip",
-            "sha256": "",
+            "sha256": "bda2bed5d6e11ecec6ce072b602ecb40f6c35a802d06e11556fa237e2bbe0895",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260312010000/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260312010000.zip"
           }
         },
@@ -5437,12 +5437,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260313010001.zip",
-            "sha256": "",
+            "sha256": "61804c3978a0a81fd7aa95bd5d31e10537554071c7a631e2b4313d12fff79c47",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260313010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260313010001.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260313010001.zip",
-            "sha256": "",
+            "sha256": "c701c6d97a287543ec857e90474969cf339794d32719694fdbe91a238edc2d6b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260313010001/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260313010001.zip"
           }
         },
@@ -5509,12 +5509,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260314010001.zip",
-            "sha256": "",
+            "sha256": "33446bf79fa7a92c861180ecd5d374b2b8831565bb18fbda61fe6ac662c33ad1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260314010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260314010001.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260314010001.zip",
-            "sha256": "",
+            "sha256": "09c54398262e6dfe39e2b8275222988fdbc2871f6a0031f33f84eb05558c2d6c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260314010001/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260314010001.zip"
           }
         },
@@ -5581,12 +5581,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260315010001.zip",
-            "sha256": "",
+            "sha256": "c16d45f139d326ce95181a403170eec0fa5ce0b2bd43b996deef9fd39d9042e4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260315010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260315010001.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260315010001.zip",
-            "sha256": "",
+            "sha256": "351df784b311770b3de41af3cc9352b374eef8d689646b96d2d68c5cc3c74f4d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260315010001/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260315010001.zip"
           }
         },
@@ -5653,12 +5653,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260316010002.zip",
-            "sha256": "",
+            "sha256": "e6aef5b9d34805e3bfa3452d02e265b70f4ca730b77ed0132b0c4660174d58dc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260316010002/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260316010002.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260316010002.zip",
-            "sha256": "",
+            "sha256": "9038722e0cf1f8a112399b7f3b572aa81219553ce22f634eae93b76fd305c1cb",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260316010002/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260316010002.zip"
           }
         },
@@ -5725,12 +5725,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260317010001.zip",
-            "sha256": "",
+            "sha256": "74201a6d9bad4273aee6e80a7be55fdd779f05e5a3fe809fdcb9022792dc5efc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260317010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260317010001.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260317010001.zip",
-            "sha256": "",
+            "sha256": "6d1106f2d0c08c392333d8488b89d359e4754ec29d0acb82680ec5763e89880f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260317010001/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260317010001.zip"
           }
         },
@@ -5797,12 +5797,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260318010001.zip",
-            "sha256": "",
+            "sha256": "c11d53fe4ffc0f25e98f468dcc03ffbac4df42ef92da0e07ff270a1ef358e684",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260318010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260318010001.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260318010001.zip",
-            "sha256": "",
+            "sha256": "25a412ea954db73952fb415dec5baa55e31b14d8b0fd1c843948ab0c1ece2327",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260318010001/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260318010001.zip"
           }
         },
@@ -5874,12 +5874,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260319010001.zip",
-            "sha256": "",
+            "sha256": "f803778f1d979c149c61e84ceb6c037c174e5df12b7108571a91577176adc1aa",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260319010001/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260319010001.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260319010001.zip",
-            "sha256": "",
+            "sha256": "9460f00dbad033dbd989d9373753ec007df5ede943528292a9888ff87b3d3ae6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260319010001/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260319010001.zip"
           }
         },
@@ -5946,12 +5946,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260320010029.zip",
-            "sha256": "",
+            "sha256": "024750718f8b49d14edb11277b60f67de6dc306c530701b10bfc99881b9da784",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260320010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260320010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260320010029.zip",
-            "sha256": "",
+            "sha256": "24c2579d8d0b19948585ad84afa642e788cac0c8db47a0a5b4528a4678803eb1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260320010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260320010029.zip"
           }
         },
@@ -6023,12 +6023,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260321010029.zip",
-            "sha256": "",
+            "sha256": "442f93be521fd4f707064086784c0a6bc3baa3cab882e59a9d47ac31832f2bfc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260321010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260321010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260321010029.zip",
-            "sha256": "",
+            "sha256": "3df6041ecb9c2b78bea9016c5b0dd862a107c77b897b1d13a21a3656b22b4c62",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260321010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260321010029.zip"
           }
         },
@@ -6105,12 +6105,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260322010029.zip",
-            "sha256": "",
+            "sha256": "57cfba49a01be0a433259520fc68957e5bcc6457a382680ad00a3c6e970ce047",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260322010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260322010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260322010029.zip",
-            "sha256": "",
+            "sha256": "90a7c23f67e3cc8770a4ea25befb165b58571158dd059d9431eb9bddf36315c7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260322010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260322010029.zip"
           }
         },
@@ -6182,12 +6182,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260323010029.zip",
-            "sha256": "",
+            "sha256": "cb8809ca216d7746701c4ec9b5506ca7db897d5a2594f648cc3d781815d6cb6d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260323010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260323010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260323010029.zip",
-            "sha256": "",
+            "sha256": "86cdcca95c68d65b33f742b34fb0741dfd8ee0db2abc7fcc765d243fb5ce40e4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260323010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260323010029.zip"
           }
         },
@@ -6264,12 +6264,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260324010029.zip",
-            "sha256": "",
+            "sha256": "262d61525e72d7b98b69e8d71814595306efcd458a3bfb15270ef55c30dae9be",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260324010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260324010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260324010029.zip",
-            "sha256": "",
+            "sha256": "e6b0e59a02377cc6f1c7a92f88b6252f37176432511e042d22d082660347b28a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260324010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260324010029.zip"
           }
         },
@@ -6346,12 +6346,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260325010029.zip",
-            "sha256": "",
+            "sha256": "911b6060e55e7e6a032eb381887574636941caa00b62c2b0946ba1053361753d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260325010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260325010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260325010029.zip",
-            "sha256": "",
+            "sha256": "426aafaee8ea5593b29d67d81d17785427239a00fd409ebec0a464dbac735e1a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260325010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260325010029.zip"
           }
         },
@@ -6413,12 +6413,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260326010029.zip",
-            "sha256": "",
+            "sha256": "78292cc5bfaebea70d79f99ad82041f053ae779e038128771879f953de3decb7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260326010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260326010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260326010029.zip",
-            "sha256": "",
+            "sha256": "11874f1f4abda3c9e432bd20ddbbb5588853b3c117f1a04ba7549559581ddeff",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260326010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260326010029.zip"
           }
         },
@@ -6495,12 +6495,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260327010029.zip",
-            "sha256": "",
+            "sha256": "34436d4dbaeeaa342b247bf7260bd14e3789a9ae6dbffc70a3390f81aec91f8f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260327010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260327010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260327010029.zip",
-            "sha256": "",
+            "sha256": "a731e3f5932dcb7f85aa961da04eac56ef8df1b97f7ee73138ac981d22fdfefe",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260327010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260327010029.zip"
           }
         },
@@ -6577,12 +6577,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260328010029.zip",
-            "sha256": "",
+            "sha256": "16d435e22c1c48cc151dcefe6083329826bac9ab1f52c024f4242bed080cd8cf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260328010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260328010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260328010029.zip",
-            "sha256": "",
+            "sha256": "0826ff27f49f8a2139a40c265a2ed439a17f4b396bba8724f9d69b032318cf25",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260328010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260328010029.zip"
           }
         },
@@ -6659,12 +6659,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260329010029.zip",
-            "sha256": "",
+            "sha256": "b4c770b58d1f42de809bc43b33806f65868b873713a7363ba7f3ae877308b5ec",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260329010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260329010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260329010029.zip",
-            "sha256": "",
+            "sha256": "1471da6371c9149b2195155e1ae3cee3908130c0881a52d8a239f069997a58e1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260329010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260329010029.zip"
           }
         },
@@ -6741,12 +6741,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260330010029.zip",
-            "sha256": "",
+            "sha256": "cbb15546646b97a3670ce6e7527615bdd821677efe3eef43590a22ab65d4d2c1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260330010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260330010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260330010029.zip",
-            "sha256": "",
+            "sha256": "bc4efc0511cc7cb0bef968133814b95fff4a1969f6c05d403c7c1bc561b0f3d2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260330010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260330010029.zip"
           }
         },
@@ -6823,12 +6823,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260331010029.zip",
-            "sha256": "",
+            "sha256": "71b19acf8a21d3fb2aabbe517d1459c88b41e7e35cfaba7f3ca6e7b9fff8f924",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260331010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260331010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260331010029.zip",
-            "sha256": "",
+            "sha256": "6a3ba35cd26e245a48873f6f367e2816eff244da0fddb1a92e780929f1f79d36",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260331010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260331010029.zip"
           }
         },
@@ -6905,12 +6905,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260401010029.zip",
-            "sha256": "",
+            "sha256": "4ea89ff9f8081ec98951f34ca0d966418cd09729402ac2e22965b93589d131e8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260401010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260401010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260401010029.zip",
-            "sha256": "",
+            "sha256": "88d5362bdf7915466beb108a125c802cde9d1cbc70f7c2bbbb362c4c29c98104",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260401010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260401010029.zip"
           }
         },
@@ -6972,12 +6972,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260402010029.zip",
-            "sha256": "",
+            "sha256": "006d90ade89ad3a804dde83a390a69baa1997f191843771f7b208e4f39fc9574",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260402010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260402010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260402010029.zip",
-            "sha256": "",
+            "sha256": "3cb991dfb6fcbdc90fcb5249ad0ffb96c34629119abd2d56ab07e483acccf424",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260402010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260402010029.zip"
           }
         },
@@ -7039,12 +7039,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260403010029.zip",
-            "sha256": "",
+            "sha256": "54c612512209a223d551de5cc60b9c3f03a73401d0ff86ee4f62f645cc56b198",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260403010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260403010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260403010029.zip",
-            "sha256": "",
+            "sha256": "7540c5fa24e74b8d261af437c7d0dd565679587a0ec20f25490b83e9db1fdee2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260403010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260403010029.zip"
           }
         },
@@ -7101,12 +7101,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260404010029.zip",
-            "sha256": "",
+            "sha256": "93a83ab5bc254b1112412e85c8287e87edacac2cfd807e2a772b0b22d87b95e1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260404010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260404010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260404010029.zip",
-            "sha256": "",
+            "sha256": "9ed37c19b4a5cdb6fa57a6f1ad781814b70c3efd75fcb9808a3bf0a637f6ba0e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260404010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260404010029.zip"
           }
         },
@@ -7168,12 +7168,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260405010029.zip",
-            "sha256": "",
+            "sha256": "f2fa052ecff67f6af6c2e8d7cd115b4c75dd4ba6f1932fb9f2d8570a9bfd764b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260405010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260405010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260405010029.zip",
-            "sha256": "",
+            "sha256": "7afbf29adab91ec7f381baa6d702f382911d38282171173744aeddb143d4ecc5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260405010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260405010029.zip"
           }
         },
@@ -7235,12 +7235,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260406010029.zip",
-            "sha256": "",
+            "sha256": "f87e088efef6bbfd30aadb7f45c4a20247279ba83fbf19067e21a56871326b70",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260406010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260406010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260406010029.zip",
-            "sha256": "",
+            "sha256": "15c1e9f7d9e68c42630f8aa412d0ed8d4356dd09c65512c61b3d230414714040",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260406010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260406010029.zip"
           }
         },
@@ -7302,12 +7302,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260407010029.zip",
-            "sha256": "",
+            "sha256": "02dbc9ee3502ba240850c49b273753837af241cb5fc59ad30923497fb8196fd7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260407010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260407010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260407010029.zip",
-            "sha256": "",
+            "sha256": "4ceb5e3c37a6970986d59f79c080590cb33d7baba11f53060c22a8d1fc0493ac",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260407010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260407010029.zip"
           }
         },
@@ -7369,12 +7369,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260408010029.zip",
-            "sha256": "",
+            "sha256": "d676f7fd5b616d7b471bb401f2fbdf1ee8abcfdd98cced33924dc5b5247b827f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260408010029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260408010029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260408010029.zip",
-            "sha256": "",
+            "sha256": "bfec912da4396b056a5227bb127ce812e46eff761fccf68e62afd12274aa839e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260408010029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260408010029.zip"
           }
         },
@@ -7451,12 +7451,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260409010028.zip",
-            "sha256": "",
+            "sha256": "6bda9ae6fa9643f4a4dc5b135d2dd137c857668f8e3748c98c761d97ae3016a9",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260409010028/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260409010028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260409010028.zip",
-            "sha256": "",
+            "sha256": "10bd601936399215d50ea6e6bfb08aa8585a021ff93b56531787b658168af6c8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260409010028/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260409010028.zip"
           }
         },
@@ -7528,12 +7528,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260410010024.zip",
-            "sha256": "",
+            "sha256": "94bc7691df614b641ef01d2f2373cab962bec6bf914f0f173aec8304f15e9197",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260410010024/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260410010024.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260410010024.zip",
-            "sha256": "",
+            "sha256": "0a16aa86673db04e5515e79facb817b7f83ab39d5a1eeae7654560a98eb2d3e5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260410010024/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260410010024.zip"
           }
         },
@@ -7610,12 +7610,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260411010024.zip",
-            "sha256": "",
+            "sha256": "ee43ce48e9b46f8345ff39bf8f12ce7f0d798144e4db0046c935096d87272977",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260411010024/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260411010024.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260411010024.zip",
-            "sha256": "",
+            "sha256": "a04128295764c1a1e850a24845d7e10f295744175e7839437723d1b92c028ce2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260411010024/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260411010024.zip"
           }
         },
@@ -7692,12 +7692,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260412010024.zip",
-            "sha256": "",
+            "sha256": "e5bab26a0ed8c6c715efd4091c55fc99fa4635de970ca25a6cc52d288215c440",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260412010024/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260412010024.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260412010024.zip",
-            "sha256": "",
+            "sha256": "c6898fac8e5c8cfbe426f1ca62e2ab41b2cdd5f3e19a1dd97d070a4e5462f233",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260412010024/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260412010024.zip"
           }
         },
@@ -7774,12 +7774,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260413010024.zip",
-            "sha256": "",
+            "sha256": "7c2cd900acc2157393360dd713c652b3aad6c0f0e46ced3c96b3ace5a3a3f5d3",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260413010024/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260413010024.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260413010024.zip",
-            "sha256": "",
+            "sha256": "d0603f9695995ac89f48d849c1f0b531a2f0a1163567857d06e90caf3f4e54f6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260413010024/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260413010024.zip"
           }
         },
@@ -7856,12 +7856,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260414010024.zip",
-            "sha256": "",
+            "sha256": "1e1a1556f3d9b79c051ca2c5dcaa211252778cd74ec51c617cf70894f0482796",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260414010024/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260414010024.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260414010024.zip",
-            "sha256": "",
+            "sha256": "adb71dd7ac00fea8f18f6571867037566287e243c4263585ef5be04b96a9d44e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260414010024/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260414010024.zip"
           }
         },
@@ -7938,12 +7938,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260415010024.zip",
-            "sha256": "",
+            "sha256": "05f22850c79a90ff5c6f77e17dc82cd9b3878ee8683a07f0fe51f84881e9f8ca",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260415010024/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260415010024.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260415010024.zip",
-            "sha256": "",
+            "sha256": "c63a3fae918d8776746e5dc9fa8cf5af4cf1f1ca97a309b1d9e724506546aff3",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260415010024/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260415010024.zip"
           }
         },
@@ -8020,12 +8020,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260416010043.zip",
-            "sha256": "",
+            "sha256": "52a8ad7624a7f69f3c277423734fb4b3df5cfa0fa7d30eb58a76d945d7fde156",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260416010043/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260416010043.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260416010043.zip",
-            "sha256": "",
+            "sha256": "ece41d37fa12b102817d36141a9c79641f2d07b9617396b07fa55e0614f084d5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260416010043/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260416010043.zip"
           }
         },
@@ -8092,12 +8092,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260417010043.zip",
-            "sha256": "",
+            "sha256": "6631bcc71e2cfec82d5f354d8136838f49ff556c5c5e49437370e777a5c30635",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260417010043/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260417010043.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260417010043.zip",
-            "sha256": "",
+            "sha256": "8d07e70235952c560c6ed84ba5ada20a9d07c8794cd9223e1cc4288aa36b9c0f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260417010043/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260417010043.zip"
           }
         },
@@ -8164,12 +8164,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260418010043.zip",
-            "sha256": "",
+            "sha256": "fc7d8c20a94dd86cbf01f236404afbd11b27e2a9ba80beb862da0cf5007e88de",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260418010043/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260418010043.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260418010043.zip",
-            "sha256": "",
+            "sha256": "ea9d81507232ccbc43b3ab5b88c00750a8ea902ca2b4db41922fa7a410fa4fb6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260418010043/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260418010043.zip"
           }
         },
@@ -8236,12 +8236,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260419010042.zip",
-            "sha256": "",
+            "sha256": "4911aca0ee8737b7dc1616ea970aba91bab939f6ecd0b0baf74b6d5a1b72f308",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260419010042/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260419010042.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260419010042.zip",
-            "sha256": "",
+            "sha256": "8c535fbaeeed0973e7137d2884193c4faf3be923ce3054822fe2b63b370416c8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260419010042/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260419010042.zip"
           }
         },
@@ -8303,12 +8303,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260420010043.zip",
-            "sha256": "",
+            "sha256": "0013cbc51f3b302c9da2dca36b931888ff89309bf8be5bbbf683e7d6a65155d0",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260420010043/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260420010043.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260420010043.zip",
-            "sha256": "",
+            "sha256": "eeef2aee735e9ecf56dffaecdff9bf974e6a29824fb2f5748d38e2f38005f332",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260420010043/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260420010043.zip"
           }
         },
@@ -8372,7 +8372,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260422010043.zip",
-            "sha256": "",
+            "sha256": "3b1e96ec2e4bfafb4f277642a5222baac4e6d5cf2d538319108b11d147c33bc5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260422010043/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260422010043.zip"
           }
         },
@@ -8414,7 +8414,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260423010023.zip",
-            "sha256": "",
+            "sha256": "9cce7be07fac6f0b834abcc53f59ffd76d3db1ff24beb712fd130e888a4dcb3c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260423010023/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260423010023.zip"
           }
         },
@@ -8523,12 +8523,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260425010057.zip",
-            "sha256": "",
+            "sha256": "13b02d8869b3d36fac60305df5fcf50498adca47ee38d86faa84e8c9f08ede7d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260425010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260425010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260425010057.zip",
-            "sha256": "",
+            "sha256": "3d95816e97167e778ec6ee8e200cb551b27b07a24cae797efc355b527c319e6f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260425010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260425010057.zip"
           }
         },
@@ -8595,12 +8595,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260426010057.zip",
-            "sha256": "",
+            "sha256": "9ffe5cab5dd389bb3fbbb4fe9e241092564849f9490bd63d2cbb9a4946cfbf4a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260426010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260426010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260426010057.zip",
-            "sha256": "",
+            "sha256": "1242c2e65b9432ec5e8b34aeca6efdefdf301e2e0e6d828b49d749340b0d8e72",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260426010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260426010057.zip"
           }
         },
@@ -8662,12 +8662,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260427010057.zip",
-            "sha256": "",
+            "sha256": "1129ae7d002a1830eb635ad4428c77e9237a829f3b4ec89590d1de8c5355d221",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260427010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260427010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260427010057.zip",
-            "sha256": "",
+            "sha256": "2bb727fde3d83d71b9413261f62abb9f8b38a3d5b0abaf86d302f6189eea4c9b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260427010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260427010057.zip"
           }
         },
@@ -8734,12 +8734,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260428010057.zip",
-            "sha256": "",
+            "sha256": "7c4a378911a5d72ba3840958ecedd6c2711e9a87882a94793e04ad7bd69e336c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260428010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260428010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260428010057.zip",
-            "sha256": "",
+            "sha256": "a38444e09d67674eeff34fcf7f076be7a37b1d58acbcb0bacd693f62e2ae8eec",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260428010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260428010057.zip"
           }
         },
@@ -8806,12 +8806,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260429010057.zip",
-            "sha256": "",
+            "sha256": "1dac654cc12301ffa1ac3bdcba6dfffcd31b9169553df657c1a12f9b585d0145",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260429010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260429010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260429010057.zip",
-            "sha256": "",
+            "sha256": "a187299c1ecaf6280fe1c2a5d392dc6c9a3737d44b420c66db8439cfe9e0cf2a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260429010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260429010057.zip"
           }
         },
@@ -8878,12 +8878,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260430010057.zip",
-            "sha256": "",
+            "sha256": "99dfda4655e1989cad5e65fecb218598af2edebf3164b87cb126b5ed6f002cf0",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260430010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260430010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260430010057.zip",
-            "sha256": "",
+            "sha256": "2fab58fd4a182bdaa1671bc3da67d1b4a21de1867e40060c4bd660876e7c8bf5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260430010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260430010057.zip"
           }
         },
@@ -8950,12 +8950,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260501010057.zip",
-            "sha256": "",
+            "sha256": "8e550f895b126310a020031a4e72c38f05a4611cac5434789f7d503d933b7738",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260501010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260501010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260501010057.zip",
-            "sha256": "",
+            "sha256": "76b1883346f7605277c7cb14427c93ab40b51df5c136e33214b57c14e81f6899",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260501010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260501010057.zip"
           }
         },
@@ -9017,12 +9017,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260502010057.zip",
-            "sha256": "",
+            "sha256": "3869da995b83b1a642931a27bd4370d5d15b10e60554d01adc60dcc823ccd958",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260502010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260502010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260502010057.zip",
-            "sha256": "",
+            "sha256": "914401d45c5ad867cb12a407e74e491754aa81e27226764158608e47a9334488",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260502010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260502010057.zip"
           }
         },
@@ -9089,12 +9089,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260503010057.zip",
-            "sha256": "",
+            "sha256": "7fd4002876dbd62d377e99f66697e6030edd1361453bad48989b8868b6b4d0e8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260503010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260503010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260503010057.zip",
-            "sha256": "",
+            "sha256": "e4f5a2a0bac0a022db366d2083c2076380841f950fb868f1c35ae48e07183259",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260503010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260503010057.zip"
           }
         },
@@ -9156,12 +9156,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260504010057.zip",
-            "sha256": "",
+            "sha256": "86a3ea5a7ccae5ed47d7844225e78c92afdf87b13dd7f842af7efeab9214fb3f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260504010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260504010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260504010057.zip",
-            "sha256": "",
+            "sha256": "4e22ef5817500380319ff4f8c9999b4b82180e9d701c678e4ab0a7112a9e12b2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260504010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260504010057.zip"
           }
         },
@@ -9228,12 +9228,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260505010057.zip",
-            "sha256": "",
+            "sha256": "2b06700701e6437db948d8da786bb8c35886c1095f821363fab194889e1b0e49",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260505010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260505010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260505010057.zip",
-            "sha256": "",
+            "sha256": "bb886f03fb36e70bede632c1037a31bdba3827cd4c59ac74b05a3f69a4c6edcb",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260505010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260505010057.zip"
           }
         },
@@ -9295,12 +9295,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260506010057.zip",
-            "sha256": "",
+            "sha256": "993ffdf6cb6411526c940a752d160a3b3c09403c659d6b455108333413a593bf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260506010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260506010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260506010057.zip",
-            "sha256": "",
+            "sha256": "0abd5077ee58c4683d5ac194072e6ebec034c229c8baf1060c68dfff04e542b1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260506010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260506010057.zip"
           }
         },
@@ -9367,12 +9367,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260507010057.zip",
-            "sha256": "",
+            "sha256": "c5a4e78a652f3a91afe3bba1d081dc2887db2c381697c61173d5b3de4bd3ce8b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260507010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260507010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260507010057.zip",
-            "sha256": "",
+            "sha256": "d4db15a074c85d597c028d888e88f7379b67548f2c0319ce1f3b560571031656",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260507010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260507010057.zip"
           }
         },
@@ -9439,12 +9439,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260508010057.zip",
-            "sha256": "",
+            "sha256": "7d3df5891fc0e016658c4c47e132157434fea821c9cd79bfb06eddc92035afdf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260508010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260508010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260508010057.zip",
-            "sha256": "",
+            "sha256": "939ff32bc7a59e9461120b82844c366da73105525ab27f13e4bd0eb5231fc5eb",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260508010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260508010057.zip"
           }
         },
@@ -9506,12 +9506,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260509010057.zip",
-            "sha256": "",
+            "sha256": "a91684583bac41b332de4c8d6c8e725f27c7700e55edb449735636054e483bf7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260509010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260509010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260509010057.zip",
-            "sha256": "",
+            "sha256": "8b4022ab59285b16952cb06af148d7caff6392bcb0a3a569240be690d8ef1469",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260509010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260509010057.zip"
           }
         },
@@ -9573,12 +9573,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260510010057.zip",
-            "sha256": "",
+            "sha256": "72d142a035a2a4a4308611a5d87b7223c5990e173d848625b0cac6dce61ccac4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260510010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260510010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260510010057.zip",
-            "sha256": "",
+            "sha256": "e5d8857b9a7ddb2472af3daffdf0e0b004cecd66328bebecd44a9bf5ad8b370c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260510010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260510010057.zip"
           }
         },
@@ -9640,12 +9640,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260511010057.zip",
-            "sha256": "",
+            "sha256": "bcad704b0e54692c2f5b4e2813a2bfbd09de1a1281ac15322894d471961d2e85",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260511010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260511010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260511010057.zip",
-            "sha256": "",
+            "sha256": "40adbe6e5beeeae0ae4e824e662f81d1b4d80554420d5fb68be1f949a89d48ba",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260511010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260511010057.zip"
           }
         },
@@ -9712,12 +9712,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260512010057.zip",
-            "sha256": "",
+            "sha256": "6a1f625be29c9f6bd76bdb292617e87be201f1f468a86607f81d9140831cd5ec",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260512010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260512010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260512010057.zip",
-            "sha256": "",
+            "sha256": "e670a95c8912b0c14a2cb9ec1326a310d1cf9bdf2e26e473707f1a203796f7fe",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260512010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260512010057.zip"
           }
         },
@@ -9779,12 +9779,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260513010056.zip",
-            "sha256": "",
+            "sha256": "64ab8eeab58d4fe255fca64fcee4c8faf87be1350f61a5d73b7e97caf9de0f9d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260513010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260513010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260513010056.zip",
-            "sha256": "",
+            "sha256": "1b7851ba6d9a220c7f976766af2425814a02096f1046c6d0fff9456b5919b492",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260513010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260513010056.zip"
           }
         },
@@ -9851,12 +9851,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260514010058.zip",
-            "sha256": "",
+            "sha256": "599f52d163adf09b2f6a860c1a2ba09d7cda26e6aa8ba31d06a7ea61b7e8836a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260514010058/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260514010058.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260514010058.zip",
-            "sha256": "",
+            "sha256": "1b6a8ad135b5bf0dfeeecc8c0c71e0eff59ed7e6003ff8af24a3ba569e86a680",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260514010058/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260514010058.zip"
           }
         },
@@ -9923,12 +9923,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260515010056.zip",
-            "sha256": "",
+            "sha256": "c62e1145b65735c8791be56768fcd5ef218448c91485311b1829ebee3c29b42f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260515010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260515010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260515010056.zip",
-            "sha256": "",
+            "sha256": "46631e98be6e1d40b02c859e097c737a169f2c6dd6b5d9f6c12b7614ea4f2f88",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260515010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260515010056.zip"
           }
         },
@@ -10042,12 +10042,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260517010057.zip",
-            "sha256": "",
+            "sha256": "ca1854825ae1d94b1d4fb4a163233e2af0c4808405b5a6c3832822bd80b4ffa4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260517010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260517010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260517010057.zip",
-            "sha256": "",
+            "sha256": "3dc3e7bc3142cc53dbf7fdf78f8970286ed6fa8c17c4de3698990d47aac048d5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260517010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260517010057.zip"
           }
         },
@@ -10114,12 +10114,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260518010056.zip",
-            "sha256": "",
+            "sha256": "b1712748a519bd2a1d1b515658dcf82a83a109dfbd4fccaf6a57def5d5f3f90e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260518010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260518010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260518010056.zip",
-            "sha256": "",
+            "sha256": "7b6668e2ec851dcaa3a3806afaa6efe2812e693e1ced36168531ce14f3e4f114",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260518010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260518010056.zip"
           }
         },
@@ -10186,12 +10186,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260519010058.zip",
-            "sha256": "",
+            "sha256": "a0a64d898681592ebbb1fd24c0c216ed74784135f37212b40291d53daf4f1161",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260519010058/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260519010058.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260519010058.zip",
-            "sha256": "",
+            "sha256": "3c9a7c16b5a59317a2bcde51bd233006f57ea155b910ecac11b1e318bba2fae6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260519010058/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260519010058.zip"
           }
         },
@@ -10258,7 +10258,7 @@
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260520010057.zip",
-            "sha256": "",
+            "sha256": "e88c36d7ab10746295f5385e1257590f3755dc13c1fef10d283fe4d7f92be306",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260520010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260520010057.zip"
           }
         },
@@ -10320,12 +10320,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260521010057.zip",
-            "sha256": "",
+            "sha256": "f83b8af798e60bbd510e2879918186b4d80d1a4c426eee19942c98ef6b401506",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260521010057/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260521010057.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260521010057.zip",
-            "sha256": "",
+            "sha256": "5fb3e7939dc1c269e1efae14ffef7955eb2af20856b03cd28408623120c96533",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260521010057/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260521010057.zip"
           }
         },
@@ -10392,12 +10392,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260522010056.zip",
-            "sha256": "",
+            "sha256": "2ce1663e74e4ae6fbf9424574477afd3845a4b0a5b3bbad346c9ee7289ec789b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260522010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260522010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260522010056.zip",
-            "sha256": "",
+            "sha256": "b2f9b896a3a5485d5c1beb4bce749af03c3693d5dc7018d7fd41037c7f7f868b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260522010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260522010056.zip"
           }
         },
@@ -10464,12 +10464,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260523010056.zip",
-            "sha256": "",
+            "sha256": "5f0b026153324fa3c8b7a74e77c9ee262cb4ca8872d9d437cf15f2aa241c6ff8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260523010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260523010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260523010056.zip",
-            "sha256": "",
+            "sha256": "0675764e7206d5477c49d1e0ea157f7f7b10fa0c23803ace069d6da9899aaef1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260523010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260523010056.zip"
           }
         },
@@ -10536,12 +10536,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260524010056.zip",
-            "sha256": "",
+            "sha256": "893615a571435e74730bfb3921181fdd5a025c91b2557fc0c01645414fb24083",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260524010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260524010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260524010056.zip",
-            "sha256": "",
+            "sha256": "727e2121a3085e7edce5ea510ce147079a5d69d672a19463d3d53775339bee08",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260524010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260524010056.zip"
           }
         },
@@ -10608,12 +10608,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260525010056.zip",
-            "sha256": "",
+            "sha256": "cf0ee9b05bd4699da49f44267e119d35e87e21590e8df11ef91c2dbc3150bda8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260525010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260525010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260525010056.zip",
-            "sha256": "",
+            "sha256": "37b0f18beeb904bf0ceba02d764f08096e8cd4271b71f4d171b5c81750ef9d94",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260525010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260525010056.zip"
           }
         },
@@ -10675,12 +10675,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260526010056.zip",
-            "sha256": "",
+            "sha256": "b568b82321ac5a937fa4bf1bbafcf24e055edb0e6069ba96f90e04014266ec1c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260526010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260526010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260526010056.zip",
-            "sha256": "",
+            "sha256": "c3ac3497012d66c5aa52a7479ce1f4dd3f7178bef268232c0b2e211303e9da3d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260526010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260526010056.zip"
           }
         },
@@ -10742,12 +10742,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260527010056.zip",
-            "sha256": "",
+            "sha256": "c9c9510cfbc40089b59804b739e9aa820bab65c0e89ea32c2f3743823cbe5973",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260527010056/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260527010056.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260527010056.zip",
-            "sha256": "",
+            "sha256": "a6a81e163e5f7cac9b075833ea4d6c6e3920036c6b5c17971d6fb8785fb1e6a8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260527010056/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260527010056.zip"
           }
         },
@@ -10809,12 +10809,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260528010036.zip",
-            "sha256": "",
+            "sha256": "248771ee618f9134de34b88cab037ed26ab0224929d4f1ce214f28bd062ccb27",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260528010036/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260528010036.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260528010036.zip",
-            "sha256": "",
+            "sha256": "399d9c1da5ca4be55183a3f857f4f59e61b555fde54a6e929a6b7dea410a29c5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260528010036/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260528010036.zip"
           }
         },
@@ -10876,7 +10876,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.25.zip",
-            "sha256": "",
+            "sha256": "e54fac6620eeb482061a34d27abca23f244a3239fadfb66c99d1baca82c36350",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260528185634/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.25.zip"
           }
         },
@@ -10938,12 +10938,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260529010036.zip",
-            "sha256": "",
+            "sha256": "62dba0d75c9bcdf0136902b0dafc0bed4f4d5cee3edde63d80358ed68c7c213d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260529010036/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260529010036.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260529010036.zip",
-            "sha256": "",
+            "sha256": "64769d38ff29f01d8e39be8df81fd19f350901870555df9de54f0953af43f753",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260529010036/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260529010036.zip"
           }
         },
@@ -11005,12 +11005,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260530010037.zip",
-            "sha256": "",
+            "sha256": "94577257b1622a43e0d71c9087ff40822e2f4a515ecf7ac92fe9880f3b66f9b6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260530010037/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260530010037.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260530010037.zip",
-            "sha256": "",
+            "sha256": "8868aae258e178ef0e844080e0d72bd7555e289d60de641eed3afda392336b17",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260530010037/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260530010037.zip"
           }
         },
@@ -11072,12 +11072,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260531010036.zip",
-            "sha256": "",
+            "sha256": "f03b5180ba2fad1b3658f77eb428c59a663a929d0ae1eea761721173c063cf23",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260531010036/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260531010036.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260531010036.zip",
-            "sha256": "",
+            "sha256": "6338a5f3c61dd6f9a374af292071654b26e07fd8a2608684eca67de08ba9f1f8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260531010036/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260531010036.zip"
           }
         },
@@ -11139,12 +11139,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260601010036.zip",
-            "sha256": "",
+            "sha256": "a023cdc56f38873e806bd10e88bae15c9e788be1fccf7ec89eaaf6fa6fc68671",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260601010036/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260601010036.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260601010036.zip",
-            "sha256": "",
+            "sha256": "3c3821fae26b826f45631c57d50b27309d26e6721b55e386170f40b97fab5133",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260601010036/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260601010036.zip"
           }
         },
@@ -11211,12 +11211,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260602010036.zip",
-            "sha256": "",
+            "sha256": "df678d9c488c71245971662551e2473c477e33b12c11a59a00642f8f64457028",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260602010036/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260602010036.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260602010036.zip",
-            "sha256": "",
+            "sha256": "5bff3acee984673ced7c0d28dc38244204df35a4d865efa84f8af3b7bd580ea9",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260602010036/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260602010036.zip"
           }
         },
@@ -11283,12 +11283,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260603010036.zip",
-            "sha256": "",
+            "sha256": "601ffa018c2c679101d77438231cbfa402a676bf6837cb9a25fb2f806e0753d5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260603010036/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260603010036.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260603010036.zip",
-            "sha256": "",
+            "sha256": "b7412ef419651a682eb9ac483c269be38a83b921793184038e70c267c65e3fdf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260603010036/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260603010036.zip"
           }
         },
@@ -11355,12 +11355,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260604010036.zip",
-            "sha256": "",
+            "sha256": "3fb30b2a6393a1b2e5c84bb4715d516de69b167e81ab75cdcf6e8cbc90c63d01",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260604010036/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260604010036.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260604010036.zip",
-            "sha256": "",
+            "sha256": "a0c696792b1f0e19de0f43cc4b55fbbb509da23954edbeb29f2315276e38483a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260604010036/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260604010036.zip"
           }
         },
@@ -11427,12 +11427,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260605010036.zip",
-            "sha256": "",
+            "sha256": "fdba84480a78dfb1dceb9e2fd56cfc02806b1be58094179d52a0b7a4f4843b02",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260605010036/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260605010036.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260605010036.zip",
-            "sha256": "",
+            "sha256": "2e773f14a2e48934ab935a57e6917d5dce4e62e7405dab54486cf7ea92cf5ee5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260605010036/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260605010036.zip"
           }
         },
@@ -11499,12 +11499,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260606010033.zip",
-            "sha256": "",
+            "sha256": "2ff489a6092c9bad0eb19967d87ed62cd975601f1910789b4eb1a269512c3b7f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260606010033/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260606010033.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260606010033.zip",
-            "sha256": "",
+            "sha256": "0966a23a662554ba0d40c181800fde461f38a50fad06cc653b3168a45f143fa0",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260606010033/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260606010033.zip"
           }
         },
@@ -11571,12 +11571,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260607010033.zip",
-            "sha256": "",
+            "sha256": "58b4148c1f5327acbab75634b8936491edd97840fe64bc310fe01ae2171501c9",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260607010033/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260607010033.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260607010033.zip",
-            "sha256": "",
+            "sha256": "f49e367ef2aacd622af3c979f5985815d7f7e5c797826bf89f6ad95b5bc7e8ad",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260607010033/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260607010033.zip"
           }
         },
@@ -11623,12 +11623,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260608010034.zip",
-            "sha256": "",
+            "sha256": "8f4f6652f86d99fc77f3d4772570c67357599a41c19bb6228b02136f89246475",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260608010034/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260608010034.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260608010034.zip",
-            "sha256": "",
+            "sha256": "3f4acfba997d0208569102caedd1f63c6594da54decb2371fd395ed1ece4f361",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260608010034/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260608010034.zip"
           }
         },
@@ -11690,12 +11690,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260609010033.zip",
-            "sha256": "",
+            "sha256": "bac9cb732a91a67f1f97880611e09c105eb6edc851285669e9108f7ef7d75fb5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260609010033/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260609010033.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260609010033.zip",
-            "sha256": "",
+            "sha256": "d2c2024cb65f4f001be50df490352d494c84e261095717c78ca2fe7b781e6243",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260609010033/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260609010033.zip"
           }
         },
@@ -11762,12 +11762,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260610020030.zip",
-            "sha256": "",
+            "sha256": "a3e6d174ebe7c8ff6f8b04698bb643364ac3070ca3cad5c91a17197c28ea5af6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260610020030/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260610020030.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260610020030.zip",
-            "sha256": "",
+            "sha256": "9c930f2c418f2672821d5a157db8bcbc8cbb85974bb23d05b01f68a327b812f6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260610020030/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260610020030.zip"
           }
         },
@@ -11829,12 +11829,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260611020029.zip",
-            "sha256": "",
+            "sha256": "bb18e8d4bd6261fb1d7eb2acac560cf73c383ae0eec7a93bd56f92df00c90ec7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260611020029/cangjie-sdk-windows-x64-ohos-1.1.0-alpha.20260611020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260611020029.zip",
-            "sha256": "",
+            "sha256": "8ec04a4a9444c9fb440d5deb5aafca14ce8f78f52aa227fdd038663e39e7f4f7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260611020029/cangjie-sdk-windows-x64-ohos-arm32-1.1.0-alpha.20260611020029.zip"
           }
         },
@@ -11901,12 +11901,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260612020030.zip",
-            "sha256": "",
+            "sha256": "93c367d965be3e7567a87e8d6b8fc4a4be41ccdb4966734c2111810c8ad10347",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260612020030/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260612020030.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260612020030.zip",
-            "sha256": "",
+            "sha256": "8c239ba0da1c4b9007b52fdf3046673f54deec5de158011981ba92a124557293",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260612020030/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260612020030.zip"
           }
         },
@@ -11973,12 +11973,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260613020028.zip",
-            "sha256": "",
+            "sha256": "946670adfb1a9a99bc449f8f1ca15a4be64ebd73fc0bf8c23c194502660ec51b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260613020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260613020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260613020028.zip",
-            "sha256": "",
+            "sha256": "1f4e7704fa956d7d8a40ce7f00fe15ac9f82f4730ecc4de619fe94b9dfbc25c2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260613020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260613020028.zip"
           }
         },
@@ -12045,12 +12045,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260614020029.zip",
-            "sha256": "",
+            "sha256": "b05fbbd2f20e9291dbe6dd959ab24ba2857931aeb3fe7153b842276434707aa5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260614020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260614020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260614020029.zip",
-            "sha256": "",
+            "sha256": "8efeee3e900217354d63afc515c1ad2e829366d86459e0f8b1e10631a7e57cdc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260614020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260614020029.zip"
           }
         },
@@ -12117,7 +12117,7 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260615020029.zip",
-            "sha256": "",
+            "sha256": "0ea52d0a363b09ec0041229a0f66e386e0ca483a932d5faa52567aa8e89f042b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260615020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260615020029.zip"
           },
           "win32-x64-ohos-arm32": {
@@ -12184,12 +12184,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260616020029.zip",
-            "sha256": "",
+            "sha256": "af9efd83cbab271d024d89789a9b0591e68e5b1c3ff79c67ea76ebb79867a622",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260616020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260616020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260616020029.zip",
-            "sha256": "",
+            "sha256": "5e0465cddc0b0f0f2351d18f89a88db5a456e5f1f1daa3324227a9e59c367d79",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260616020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260616020029.zip"
           }
         },
@@ -12246,12 +12246,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260617020029.zip",
-            "sha256": "",
+            "sha256": "90bb89d549af9820511cfc3183207b2e436b4b5aa64d7aaaa43d3ccd1abba60d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260617020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260617020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260617020029.zip",
-            "sha256": "",
+            "sha256": "d3fc83cd6d2849262cbc113d6bee071b7bf8014b25d7c0e03a8dd429a6cc9387",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260617020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260617020029.zip"
           }
         },
@@ -12313,12 +12313,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260618020030.zip",
-            "sha256": "",
+            "sha256": "b97f6387f7e1da04cfe0d72864f54b7a6569e08ee2e1d119c03ee5821a046a2a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260618020030/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260618020030.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260618020030.zip",
-            "sha256": "",
+            "sha256": "21624de1b7045f01d3832577a1cdca8cfc00a3b5a7563b404c23b2f08bc0bdd5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260618020030/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260618020030.zip"
           }
         },
@@ -12380,12 +12380,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260619020029.zip",
-            "sha256": "",
+            "sha256": "38849a7b2cf82bda5a3c061031c4fa8b4e68d787e8ff9c8c0ed80aba5d240d70",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260619020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260619020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260619020029.zip",
-            "sha256": "",
+            "sha256": "91b75546190ddc3e415c0304e8dc6c1270dad626df4fada199f15087425668a2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260619020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260619020029.zip"
           }
         },
@@ -12452,12 +12452,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260620020029.zip",
-            "sha256": "",
+            "sha256": "c3d0fa9fb87622735681cc6d4ceff69dcd73cd119b490908279165f5f04de20a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260620020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260620020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260620020029.zip",
-            "sha256": "",
+            "sha256": "ccf4b2e32db532fc8c3ec8139713b04a5b802c88310cf6344a5bd0c8ff9cd1f8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260620020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260620020029.zip"
           }
         },
@@ -12524,12 +12524,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260621020029.zip",
-            "sha256": "",
+            "sha256": "15c5039753ada6c14d4700cff6017f5167f734609aef02ce34edfe0c984ff047",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260621020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260621020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260621020029.zip",
-            "sha256": "",
+            "sha256": "0f3f598dbdb8753e349dcbb3b8f545da8e0078bd6a6a7c502f863295e2ffc8d0",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260621020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260621020029.zip"
           }
         },
@@ -12596,12 +12596,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260622020029.zip",
-            "sha256": "",
+            "sha256": "69d985b7c6bb7cf2df0399d782f7a8f05e66e3f3f557a5593f3fb04ed3cdd508",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260622020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260622020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260622020029.zip",
-            "sha256": "",
+            "sha256": "aa890a476e46cfbe5e7df089559cddffd632e2766b31e3932214db32db40e119",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260622020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260622020029.zip"
           }
         },
@@ -12668,12 +12668,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260623020029.zip",
-            "sha256": "",
+            "sha256": "f75da9f5b072205c0166c7e8eee19c184b23273b7539173af7256253a9dbe58d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260623020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260623020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260623020029.zip",
-            "sha256": "",
+            "sha256": "4b9415ba2ed771098e7c1a37575111aabd00dfb63aebf50cd1f0b16a96a2c390",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260623020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260623020029.zip"
           }
         },
@@ -12740,12 +12740,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260624020029.zip",
-            "sha256": "",
+            "sha256": "7ad6c8738583a6cd733f6f41e4e3159a96440d7137b7aa1c60b0e28d5cecbd1d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260624020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260624020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260624020029.zip",
-            "sha256": "",
+            "sha256": "9bf22c8cccb8726590d5750238d549401e4cafcc81f13203046780f7cbb14862",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260624020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260624020029.zip"
           }
         },
@@ -12812,12 +12812,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260625020029.zip",
-            "sha256": "",
+            "sha256": "1a276d5c6c3109b33f1712ca7fe1a0f158bb30470d7f10a96ab3417287acf98c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260625020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260625020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260625020029.zip",
-            "sha256": "",
+            "sha256": "14da3c67b015f9360b31532fb548c3b7277456f0b0530a6a0f5a5a2811c72429",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260625020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260625020029.zip"
           }
         },
@@ -12879,12 +12879,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260626020029.zip",
-            "sha256": "",
+            "sha256": "16a14ab2f82fb2e1fbe6c8c510cd0509956c93346a4c13f9f3adbc91be5739a8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260626020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260626020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260626020029.zip",
-            "sha256": "",
+            "sha256": "e9bb26dcf288edf47e86d12215517c45501f69f0549986eed16d379a0e92f5ed",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260626020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260626020029.zip"
           }
         },
@@ -12951,12 +12951,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260627020029.zip",
-            "sha256": "",
+            "sha256": "69defaae294a92544414a3cf93e22d3d1a55bccd3bf265183cc8c93ff650abd5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260627020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260627020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260627020029.zip",
-            "sha256": "",
+            "sha256": "5144a1c198f0435e057457e94707076821137c870fe61da212099747f061007f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260627020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260627020029.zip"
           }
         },
@@ -13023,12 +13023,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260628020029.zip",
-            "sha256": "",
+            "sha256": "f4dd6c44197306f6da092663f6dfb744bf2199fd8f5ae1d038fed62e2cdbf79e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260628020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260628020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260628020029.zip",
-            "sha256": "",
+            "sha256": "f163fbd8f4bf36f796e3e52238efb6af53aa8bf64c9ade76b37f531adf04522e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260628020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260628020029.zip"
           }
         },
@@ -13095,12 +13095,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260629020029.zip",
-            "sha256": "",
+            "sha256": "dd8ebb5693b9b9fa9d999be145f44a584fc9495a8fbd381eee5304a9d8bed7d8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260629020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260629020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260629020029.zip",
-            "sha256": "",
+            "sha256": "7ef2edd557c5cf3d8501a518621e3735d35707eb851bce3339c0eec1334e6af6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260629020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260629020029.zip"
           }
         },
@@ -13167,12 +13167,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260630020029.zip",
-            "sha256": "",
+            "sha256": "2866dce954c36693dbc7643fb536a89d9d5da2fe58e27ecfd20efaf0debb5784",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260630020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260630020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260630020029.zip",
-            "sha256": "",
+            "sha256": "223d053b30fe34df3f21e6134e151124100e6b94b186ba27b67d66d41d772c30",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260630020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260630020029.zip"
           }
         },
@@ -13239,12 +13239,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260701020029.zip",
-            "sha256": "",
+            "sha256": "075dbeb693488022242bb9a3803fc4e0a59138be732753d9cdc92a3bae6750ed",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260701020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260701020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260701020029.zip",
-            "sha256": "",
+            "sha256": "760bceb830a07222e1f025aad2370c1696c95201a2ebdc9cbdfb82136a373a12",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260701020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260701020029.zip"
           }
         },
@@ -13311,12 +13311,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260702020029.zip",
-            "sha256": "",
+            "sha256": "5352230a22604600c7a892e291d7e2413f6b702ccafe786a31a6bc724c3651c5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260702020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260702020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260702020029.zip",
-            "sha256": "",
+            "sha256": "db116317e0b5be6eeb9d189c7c3634a231bc6c584e15ee0bf8304646ab697c30",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260702020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260702020029.zip"
           }
         },
@@ -13363,7 +13363,7 @@
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260703020029.zip",
-            "sha256": "",
+            "sha256": "b5883203a498a734583c675f3e13451656b7bcfbbcce9de704d6b10632ca3ad0",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260703020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260703020029.zip"
           }
         },
@@ -13430,12 +13430,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260704020028.zip",
-            "sha256": "",
+            "sha256": "fec61e4759427def058285e7d0b5b970e8afa564dd5b0cfb75835cf94f50403e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260704020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260704020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260704020028.zip",
-            "sha256": "",
+            "sha256": "0f8a07ee87bd6c05181d48fea22c310e07c46eed7edf5ba588aa62037b1cd9b4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260704020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260704020028.zip"
           }
         },
@@ -13502,12 +13502,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260705020029.zip",
-            "sha256": "",
+            "sha256": "db963d1389d159e1508c1b8fa1c45a5c2756b0a7f7c9349b29ffcaf4ca44ab7e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260705020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260705020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260705020029.zip",
-            "sha256": "",
+            "sha256": "a568d46d77e08122be594c2ba8139b674be9b9ad75b974dca43412c0b3fcff59",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260705020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260705020029.zip"
           }
         },
@@ -13574,12 +13574,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260706020029.zip",
-            "sha256": "",
+            "sha256": "cba373112f5a7c0983a2f1bdb065b9ee1219dca168de9ea52a242381431b1210",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260706020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260706020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260706020029.zip",
-            "sha256": "",
+            "sha256": "7b0a23cf842085f1d2409e602250f0efd89ef0b1ce7eb7a8c69e68095389f946",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260706020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260706020029.zip"
           }
         },
@@ -13646,12 +13646,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260707020028.zip",
-            "sha256": "",
+            "sha256": "b5fe90da1aba37ea4eb14f25193280ef35529cf042e5c684275fc810147c436e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260707020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260707020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260707020028.zip",
-            "sha256": "",
+            "sha256": "796a92b5fae7f2d16d7ebe01ee3a5eba6b4f5c5c5654c7f0d648aab796c3e236",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260707020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260707020028.zip"
           }
         },
@@ -13718,12 +13718,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260708020028.zip",
-            "sha256": "",
+            "sha256": "94a103bedb4510fbbee12d68259440b6c39bc925ec19512fe5bc501db80dbbef",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260708020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260708020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260708020028.zip",
-            "sha256": "",
+            "sha256": "afa42e841fb1995f155e6b4dc351be2a7a7f997e5279a05f6c4475a0f4bb2438",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260708020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260708020028.zip"
           }
         },
@@ -13790,12 +13790,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260709020028.zip",
-            "sha256": "",
+            "sha256": "bedf2aaa2b8fdd4917dfe13572b96c0b4650fc81312b5ac4b4ec656d24d2ebcb",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260709020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260709020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260709020028.zip",
-            "sha256": "",
+            "sha256": "7952a4cda93983bdb56c6c46b7e307e16a92d0a4383bbdc9cd370a2846f99072",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260709020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260709020028.zip"
           }
         },
@@ -13857,12 +13857,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260710020028.zip",
-            "sha256": "",
+            "sha256": "491c041698b7daa22afd39ca2485cf418e10aa72cbc8d38d85b79dc61fd30245",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260710020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260710020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260710020028.zip",
-            "sha256": "",
+            "sha256": "10fea77ad79f1e2fdf2b47ab2b690f0ec917c553ea402d3c2dd0cb4c9a96563d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260710020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260710020028.zip"
           }
         },
@@ -13929,12 +13929,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260711020029.zip",
-            "sha256": "",
+            "sha256": "5155413e3e3d6d51d2c806ddf192ae92d341b613c06d8ef3a553581f34e48b53",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260711020029/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260711020029.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260711020029.zip",
-            "sha256": "",
+            "sha256": "99f6ba15db76f4a749fb60467b724deed540b9851c94c94e67daeb044728b95d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260711020029/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260711020029.zip"
           }
         },
@@ -14001,12 +14001,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260712020030.zip",
-            "sha256": "",
+            "sha256": "19fac7bcd022b494de79c8342e11e485c24cd66153f5b63fe44830b13913c05d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260712020030/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260712020030.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260712020030.zip",
-            "sha256": "",
+            "sha256": "505747e2ddea4bc3f48bb23cf09e36833e3f5dd4caa34503745c5d19d24b8fcf",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260712020030/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260712020030.zip"
           }
         },
@@ -14068,12 +14068,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260713204632.zip",
-            "sha256": "",
+            "sha256": "1d6476f9b987ff021bf5cd76c84e02ac6804317f6c1c3cea9a28224cd95512b3",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260713204632/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260713204632.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260713204632.zip",
-            "sha256": "",
+            "sha256": "6f898521b621fda2c5a30c48c9aaf06b2efee9b36d6a969ea2db93c81befda3f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260713204632/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260713204632.zip"
           }
         },
@@ -14140,12 +14140,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260714020028.zip",
-            "sha256": "",
+            "sha256": "51617f78954fda408403d4991306885b5aeb336e70988615e56409cbbb5fc17f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260714020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260714020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260714020028.zip",
-            "sha256": "",
+            "sha256": "732d9afaafc62608fc9b4d1de5012960997a0f0da81e21a5c2db502d44ccbbce",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260714020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260714020028.zip"
           }
         },
@@ -14212,12 +14212,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260715020028.zip",
-            "sha256": "",
+            "sha256": "fc55b0f5ab0e06babd11a182d664ea70a545c107d756bfacb3f3f4e9c3961bfa",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260715020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260715020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260715020028.zip",
-            "sha256": "",
+            "sha256": "7d5aa591557858739b7254ba7ecd18788df49fe7c7b4bc5196808bb720e21b26",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260715020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260715020028.zip"
           }
         },
@@ -14284,12 +14284,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260716020028.zip",
-            "sha256": "",
+            "sha256": "d1eeeb84c023f9ec606d9e03c5fa6cc89c5fe48f0f5bca6426a7f44addcfaa27",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260716020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260716020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260716020028.zip",
-            "sha256": "",
+            "sha256": "cf6ce12961f4f058a4e02404d9fe5ccd546ee6962d717b2d92e8c4896e00dff8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260716020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260716020028.zip"
           }
         },
@@ -14356,12 +14356,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260717020028.zip",
-            "sha256": "",
+            "sha256": "763f0e7331ea2ecd4584dae80f3621c7e763f38884d956462239fae83bd1d82d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260717020028/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260717020028.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260717020028.zip",
-            "sha256": "",
+            "sha256": "fc87895b1e1b85ba2bfeed9a5559e8ea65e256ae97317ecba5dea9f1a72b37c5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260717020028/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260717020028.zip"
           }
         },
@@ -14418,12 +14418,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260718020046.zip",
-            "sha256": "",
+            "sha256": "69fad89dc745b1c6deb4c62f86295c6a62cf536ec71e2859dae630b35fa71be7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260718020046/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260718020046.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260718020046.zip",
-            "sha256": "",
+            "sha256": "20b9d97923217a1b9ab4a4ee5802107814a8e96d412c61d5e84370cdf077454b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260718020046/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260718020046.zip"
           }
         },
@@ -14480,12 +14480,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260719020046.zip",
-            "sha256": "",
+            "sha256": "f93030e894feb01f36af20f42a98ad420d7384215b6eb0ed85da64c62a3c8edc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260719020046/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260719020046.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260719020046.zip",
-            "sha256": "",
+            "sha256": "10ccba4151009cc2a5b709213bffaa824c1a9376e76c8de6369cab2a0425734f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260719020046/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260719020046.zip"
           }
         },
@@ -14552,12 +14552,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260720020046.zip",
-            "sha256": "",
+            "sha256": "c5dc7f534bfe7c58918373db7cb0ac3edf0ec07105ef68977c997563c8072281",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260720020046/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260720020046.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260720020046.zip",
-            "sha256": "",
+            "sha256": "4598508d2748877d8b5b46bbc0e93d29c17232bdfe3f83d3038100e0290ac217",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260720020046/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260720020046.zip"
           }
         },
@@ -14624,12 +14624,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260721020046.zip",
-            "sha256": "",
+            "sha256": "6b27c8fa9c8b9d19aad6b142bd95ea6d2bda417c402584ac24752f5a33b87fa2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260721020046/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260721020046.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260721020046.zip",
-            "sha256": "",
+            "sha256": "329d7a749fa833c4eae41be20d5d4f66f0f84d2f5d2e5bf6c74062604684fc7a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260721020046/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260721020046.zip"
           }
         },
@@ -14696,12 +14696,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260721165458.zip",
-            "sha256": "",
+            "sha256": "9f4967355941dbc0b510ac690004fc0ac32b0fc1209e342a4db9d88984444d11",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260721165458/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260721165458.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260721165458.zip",
-            "sha256": "",
+            "sha256": "4aa580f5b423a554e2f16cbfeb8edb71f6972c807928434a0f47f8523efe11d1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260721165458/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260721165458.zip"
           }
         },
@@ -14768,12 +14768,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260722020046.zip",
-            "sha256": "",
+            "sha256": "682e6ad3507d687beae1150b091e7edde1b7eb6f68c87fa2d2b11f16bf97b9de",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260722020046/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260722020046.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260722020046.zip",
-            "sha256": "",
+            "sha256": "8024ab67d9893bc3f5a28e57b8c2d30668ebd4c6cb51af73a13e13a7f47b584f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260722020046/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260722020046.zip"
           }
         },
@@ -14840,12 +14840,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260723020046.zip",
-            "sha256": "",
+            "sha256": "8380efd0c38b6656875334dde3b8956536d218927f0e2c1e9dd4eff6e15e766d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260723020046/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260723020046.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260723020046.zip",
-            "sha256": "",
+            "sha256": "4d32c620538652dba0b2c6f348d9abc7e970413f1b24b5b4731a406820d329b8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260723020046/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260723020046.zip"
           }
         },
@@ -14907,12 +14907,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260724020046.zip",
-            "sha256": "",
+            "sha256": "25417589f00f856bc1c084eb1167483190cf2ad9bfdb95201aa6b2914ac16284",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260724020046/cangjie-sdk-windows-x64-ohos-1.2.0-alpha.20260724020046.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260724020046.zip",
-            "sha256": "",
+            "sha256": "970701f6b2ec71d7f6bf1393473246f7ecf66080b9ec28c40d3e6c028c8f9f4c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260724020046/cangjie-sdk-windows-x64-ohos-arm32-1.2.0-alpha.20260724020046.zip"
           }
         },
@@ -14979,12 +14979,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260725010033.zip",
-            "sha256": "",
+            "sha256": "0d3daedbd47eec143f494c06bb81b028b67defb83dafe85b3c5f530bdc8cb8e6",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260725010033/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260725010033.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260725010033.zip",
-            "sha256": "",
+            "sha256": "3802fa5e4b73b6b7afa42c413e27a05f701c8a90ea5dfffeae65e8043ebbd9b0",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.2.0-alpha.20260725010033/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260725010033.zip"
           }
         },
@@ -15051,12 +15051,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260726010034.zip",
-            "sha256": "",
+            "sha256": "6fbc0e5388cb7ca6535be98608a0e893e677124a20f2077a0f74ac2b71de54d1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260726010034/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260726010034.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260726010034.zip",
-            "sha256": "",
+            "sha256": "505994dd619cbfe0685b5ed095e3114284583f88eb2eed2795171c122805d991",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260726010034/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260726010034.zip"
           }
         },
@@ -15118,12 +15118,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260727010033.zip",
-            "sha256": "",
+            "sha256": "83458294c9b68697dfa8b4890768bb5243a55a2ef7353da724fe385454d983e8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260727010033/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260727010033.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260727010033.zip",
-            "sha256": "",
+            "sha256": "b233d5822fd8d572b5524e8c0ff65890c4b83b91e12cfd84e10d78714c287ace",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260727010033/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260727010033.zip"
           }
         },
@@ -15185,12 +15185,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260728010033.zip",
-            "sha256": "",
+            "sha256": "9b869a9f785cfb2648103a636e8316b3496df212222d65f453b8fe32948abc9e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260728010033/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260728010033.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260728010033.zip",
-            "sha256": "",
+            "sha256": "db80c6374a1c38829b31c58185adc3646519cf9a5ba5e3cea7e406e529caeb88",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260728010033/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260728010033.zip"
           }
         },
@@ -15257,12 +15257,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260729010032.zip",
-            "sha256": "",
+            "sha256": "d2253d3642672febd7e5c20b051784892519b769e0dcc1c534b543e4ae4cfbf2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260729010032/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260729010032.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260729010032.zip",
-            "sha256": "",
+            "sha256": "b8ec2a5a969037c07e21d57b704c9eff91182d585260923a74941cb624db1bd9",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260729010032/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260729010032.zip"
           }
         },
@@ -15329,12 +15329,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260730010032.zip",
-            "sha256": "",
+            "sha256": "08548e03b08803dae18ecfce29b1bd0d27038f27df9f1aba7f8f1f6d1108f6a3",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260730010032/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260730010032.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260730010032.zip",
-            "sha256": "",
+            "sha256": "c78eda1960564486d2faf0df3e457925eb1437825539343d40240da71a31bbd5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260730010032/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260730010032.zip"
           }
         },
@@ -15401,12 +15401,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260731010032.zip",
-            "sha256": "",
+            "sha256": "04bc938d8d99186a92a0087d5f933eb0f5729184bd4c5535ad0fe992ee1bab44",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260731010032/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260731010032.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260731010032.zip",
-            "sha256": "",
+            "sha256": "44d5d25c7a2e6b9aeb971309414603c0b4ff7761a6e2fdcf748198c9481b4eb8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260731010032/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260731010032.zip"
           }
         },
@@ -15473,12 +15473,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260801010032.zip",
-            "sha256": "",
+            "sha256": "f4fe9b2a73dfa3370b0f58155fcf1a7672a0bafa18fe0b35537895f8f4e91383",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260801010032/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260801010032.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260801010032.zip",
-            "sha256": "",
+            "sha256": "7a975275ba803845ffcb488a7643a9d9bf86213cc2771952eda6368ed89102da",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260801010032/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260801010032.zip"
           }
         },
@@ -15545,12 +15545,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260802010032.zip",
-            "sha256": "",
+            "sha256": "57b13571bb2ce97eabe24b4ce3422635b1d7376c6584918a2b37107912e4238a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260802010032/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260802010032.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260802010032.zip",
-            "sha256": "",
+            "sha256": "a15cfa426f6c34aa1ac9a16f48ca82bd8512ba93e9753460efbd0ab1659dd339",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260802010032/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260802010032.zip"
           }
         },
@@ -15617,12 +15617,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260803010032.zip",
-            "sha256": "",
+            "sha256": "440e64e3ecdf257644fc5c1c0f1c8106eac69b41ac4743b9fe08cf0f781544c4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260803010032/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260803010032.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260803010032.zip",
-            "sha256": "",
+            "sha256": "e932fb3c5ea405a54f9ab484a35377ae7d20cbe037af3c952ac593fc7939e0f3",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260803010032/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260803010032.zip"
           }
         },
@@ -15689,12 +15689,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260804010019.zip",
-            "sha256": "",
+            "sha256": "b55c92307fda393448496e0b3926df40a3dd9c8887240b3b0622a06c5f5d86e0",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260804010019/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260804010019.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260804010019.zip",
-            "sha256": "",
+            "sha256": "616c54c949531b349e92d02b31e459a72880abb5705853b6d672b4f5cf594f8d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260804010019/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260804010019.zip"
           }
         },
@@ -15761,12 +15761,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260805010019.zip",
-            "sha256": "",
+            "sha256": "b19d6851c13037c99aa8d902f6652b9c69d1f73cb5c4e15e31659ade53d56741",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260805010019/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260805010019.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260805010019.zip",
-            "sha256": "",
+            "sha256": "a7cee4b999d5070a1ea234aaf32f179eb909be35cbd5509d051a0cb3921292a4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260805010019/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260805010019.zip"
           }
         },
@@ -15823,12 +15823,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260806010019.zip",
-            "sha256": "",
+            "sha256": "a8df969fa85e0297ec494af39b6c8f2fb8ca69a6f93ef553b31482e17bb83977",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260806010019/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260806010019.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260806010019.zip",
-            "sha256": "",
+            "sha256": "2514705590b2fbb88439817aba46c789f6b50aed12c90673b42c0a6dbc5d314e",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260806010019/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260806010019.zip"
           }
         },
@@ -15895,12 +15895,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260807010020.zip",
-            "sha256": "",
+            "sha256": "e2ccb8c8567ab5bd1a615b88b31339c784c0308238bb5c673a86e2be8fda90a3",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260807010020/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260807010020.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260807010020.zip",
-            "sha256": "",
+            "sha256": "790795242460a2010f704cf55fabe4d7bf35eca3ec0040528fa94fc824e4152c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260807010020/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260807010020.zip"
           }
         },
@@ -15967,12 +15967,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260808010019.zip",
-            "sha256": "",
+            "sha256": "797f0a459a6ee440affaadcc2e70a64d4e4501d5228682cbdc1d7334b2964ee4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260808010019/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260808010019.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260808010019.zip",
-            "sha256": "",
+            "sha256": "37de25865d36ab317d9295a93f4aa8723928d27c64bdde2f938c5c721e4ea2dc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260808010019/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260808010019.zip"
           }
         },
@@ -16034,12 +16034,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260809010019.zip",
-            "sha256": "",
+            "sha256": "bdb2e88022b2b0beaec5f379b668db21c0c1645da7a92d67ed06bf20f3a5c118",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260809010019/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260809010019.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260809010019.zip",
-            "sha256": "",
+            "sha256": "e1aa50b70a07b0ed7c93e7be9aba736a5f10e73984f62ffcff52b34904a953b1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260809010019/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260809010019.zip"
           }
         },
@@ -16106,12 +16106,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260810010020.zip",
-            "sha256": "",
+            "sha256": "bf1e4b867b50c368a9e3aafec990aa7e36f95a2d94720c58e95f0f09a0ec981b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260810010020/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260810010020.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260810010020.zip",
-            "sha256": "",
+            "sha256": "9902099885d70efe5bead0509a4fd7e9ade6ad3ce1f3d41edbd1687a3763c3e2",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260810010020/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260810010020.zip"
           }
         },
@@ -16178,12 +16178,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260811010020.zip",
-            "sha256": "",
+            "sha256": "0a1e6c3dfe12c896fe0d056823624af2cba480ac8a0abd5de8ebf8955936e2ee",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260811010020/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260811010020.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260811010020.zip",
-            "sha256": "",
+            "sha256": "479394eb6617114cd7d8926b44fd22c1d0353dc4319bb139168a87a7460a90f1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260811010020/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260811010020.zip"
           }
         },
@@ -16250,12 +16250,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260812010048.zip",
-            "sha256": "",
+            "sha256": "59f79f8a33a8da25f10b36c05c2b9eacfe10ecb1f7b53fb239d83a198ac2f1bd",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260812010048/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260812010048.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260812010048.zip",
-            "sha256": "",
+            "sha256": "0ca7687e9825bb4000a1cf64f9eea1a52cecbb26679ac71a92e9ca09f95681cc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260812010048/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260812010048.zip"
           }
         },
@@ -16317,12 +16317,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260813010009.zip",
-            "sha256": "",
+            "sha256": "bdc0113763e7f25081db4de2119ffe308f5a4f9fe3a711391777b12da30eb26d",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260813010009/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260813010009.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260813010009.zip",
-            "sha256": "",
+            "sha256": "60979f64f2bdb2ec8eae73f5880b6581315216afe531b6ada8d4a15e20d5df91",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260813010009/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260813010009.zip"
           }
         },
@@ -16369,12 +16369,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260813010049.zip",
-            "sha256": "",
+            "sha256": "38980f3c92e84209a6a7bf2f08448b83c6027639bba1c54e2ab7c52a498c3bf3",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260813010049/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260813010049.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260813010049.zip",
-            "sha256": "",
+            "sha256": "a64d31f6cfe9a55557b9359ace2eb7eea79312cf7fe4ab1f49fce7a8e350ec7a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260813010049/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260813010049.zip"
           }
         },
@@ -16421,12 +16421,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260814010023.zip",
-            "sha256": "",
+            "sha256": "da5a394cd790fe1db7a95721e6b5cf721a3dcae32b9da10e547aab01d040982f",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260814010023/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260814010023.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260814010023.zip",
-            "sha256": "",
+            "sha256": "1dc3616c7d4bf8d2f8eebabc7d542a5866de29d5d02eb4240479ccc41144bee8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260814010023/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260814010023.zip"
           }
         },
@@ -16493,12 +16493,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260814010004.zip",
-            "sha256": "",
+            "sha256": "828ba8c031dad483439642f37208e4f4cb804ad6d29a81f0ba067ab0f56c562a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260814010004/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260814010004.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260814010004.zip",
-            "sha256": "",
+            "sha256": "e921256342a90c9fe634c1ef52980bd96437e3e0fb54ce16a7c5608005c022dd",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260814010004/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260814010004.zip"
           }
         },
@@ -16565,12 +16565,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260815010023.zip",
-            "sha256": "",
+            "sha256": "a89b4005a3da3fa2e1c230288ce21203bf4bb251fa9effb55fe075d8120e7a76",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260815010023/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260815010023.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260815010023.zip",
-            "sha256": "",
+            "sha256": "2a4c1a22ed949916e05f4d9c579fe85613cd4ed636390d45d6d3cd9656b8ce0a",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260815010023/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260815010023.zip"
           }
         },
@@ -16637,12 +16637,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260816010023.zip",
-            "sha256": "",
+            "sha256": "a746a6212ed39058b3519e8eabef41b2c1b14a4c51511f97776cd406c690290c",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260816010023/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260816010023.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260816010023.zip",
-            "sha256": "",
+            "sha256": "36046c2be12a6a194745630ddecaab607c0cb1c2ee39579543c1cf9dcc8aa6af",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260816010023/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260816010023.zip"
           }
         },
@@ -16709,12 +16709,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260817010024.zip",
-            "sha256": "",
+            "sha256": "b158205408fbf594ffbd9ae0436a4f28b054b1c8cd0611e9ab8f5d0efe290e2b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260817010024/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260817010024.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260817010024.zip",
-            "sha256": "",
+            "sha256": "1689b979490caa381001753397fbb2f37a564fd6e29338630ae9a3ec069a35b4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260817010024/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260817010024.zip"
           }
         },
@@ -16781,12 +16781,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260818010024.zip",
-            "sha256": "",
+            "sha256": "8cf99a797ef8fa517cfc51c9a40fcbdbd7a7498c1d04513931e3cd505711474b",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260818010024/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260818010024.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260818010024.zip",
-            "sha256": "",
+            "sha256": "42bc4ac6fb442ef95b5ca205c34c8db5b0027e3d96884748682502de54010ea4",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260818010024/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260818010024.zip"
           }
         },
@@ -16848,12 +16848,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260819010023.zip",
-            "sha256": "",
+            "sha256": "95fabe66acadca7dd06bd6d25a82b078eabf1df506a6411d109d7b1876cfff34",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260819010023/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260819010023.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260819010023.zip",
-            "sha256": "",
+            "sha256": "b53d280fbc34931f8f47392f2174ec8e950f8fda9db7e38bed9b587739e193cc",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260819010023/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260819010023.zip"
           }
         },
@@ -16920,12 +16920,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260820010032.zip",
-            "sha256": "",
+            "sha256": "d1c216966b751166302ffd8b5296c3bac4ae8a305bcddc54ffd23c43cbfb15e8",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260820010032/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260820010032.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260820010032.zip",
-            "sha256": "",
+            "sha256": "c152e8febc15ee80a90ef150f09c79d794ae441839855ee287e5858db4e627c5",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260820010032/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260820010032.zip"
           }
         },
@@ -16987,12 +16987,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260821010032.zip",
-            "sha256": "",
+            "sha256": "61f68fef3b51b50d92247bf8ce8eba28e5bbbc17675b458ee3019ae9a99332c3",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260821010032/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260821010032.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260821010032.zip",
-            "sha256": "",
+            "sha256": "ec56f28ef31d28c842163ebef0efe0857c5380361018f72db406e6dd7b2cf0c1",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260821010032/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260821010032.zip"
           }
         },
@@ -17054,12 +17054,12 @@
           },
           "win32-x64-ohos": {
             "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260822010033.zip",
-            "sha256": "",
+            "sha256": "566059e22895b8bb6f82de35a7aea109140872ba8ed3f0cfe266c21ddd776d94",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260822010033/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260822010033.zip"
           },
           "win32-x64-ohos-arm32": {
             "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260822010033.zip",
-            "sha256": "",
+            "sha256": "6fd0169a0214c6baa4c26741a9241249e3a4884a9fe4798f8d1e809f019cb6b7",
             "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260822010033/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260822010033.zip"
           }
         }
