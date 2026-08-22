@@ -70,6 +70,43 @@ function fetchJson(
   });
 }
 
+export function fetchText(url: string, redirectsLeft = MAX_REDIRECTS): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const req = https.get(
+      url,
+      { headers: { "User-Agent": USER_AGENT, Accept: "text/plain" }, timeout: REQUEST_TIMEOUT_MS },
+      (res) => {
+        const status = res.statusCode ?? 0;
+        if (status >= 300 && status < 400 && res.headers.location) {
+          res.resume();
+          if (redirectsLeft <= 0) {
+            reject(new Error(`Too many redirects fetching ${url}`));
+            return;
+          }
+          const next = new URL(res.headers.location, url);
+          if (next.protocol !== "https:") {
+            reject(new Error(`Checksum redirect requires HTTPS: ${next}`));
+            return;
+          }
+          fetchText(next.toString(), redirectsLeft - 1).then(resolve, reject);
+          return;
+        }
+        if (status < 200 || status >= 300) {
+          res.resume();
+          reject(new Error(`HTTP ${status} fetching ${url}`));
+          return;
+        }
+        const chunks: Buffer[] = [];
+        res.on("data", (chunk: Buffer) => chunks.push(chunk));
+        res.on("end", () => resolve(Buffer.concat(chunks).toString("utf8")));
+        res.on("error", reject);
+      },
+    );
+    req.on("timeout", () => req.destroy(new Error(`Request timeout: ${url}`)));
+    req.on("error", reject);
+  });
+}
+
 function toRawReleases(apiReleases: ApiRelease[]): RawRelease[] {
   return apiReleases.map((rel) => {
     const assets: RawReleaseAsset[] = (rel.assets ?? [])

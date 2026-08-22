@@ -42,6 +42,9 @@ target platform tokens published by upstream. For example, `win32-x64-ohos`,
 `darwin-arm64-ios`, `linux-x64-android`, and `win32-x64-ohos-arm32`.
 
 Each toolchain entry contains `name`, `sha256`, and `url`.
+Nightly generation reads a matching `.sha256` Release asset when upstream
+publishes one and stores the validated digest in `sha256`. Other entries use an
+empty digest as the compatibility representation until upstream adds a sidecar.
 
 ### Components
 

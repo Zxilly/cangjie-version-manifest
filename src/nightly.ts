@@ -7,6 +7,65 @@ const SDK_PREFIX = "cangjie-sdk-";
 const SDK_ARCHIVE_EXTENSIONS = [".tar.gz", ".zip"];
 const DOCS_HTML_RE = /^cangjie-docs-html-(.+)\.tar\.gz$/;
 const VERSION_TOKEN_RE = /^\d+\.\d+\.\d+/;
+const SHA256_RE = /^[a-f0-9]{64}$/i;
+const CHECKSUM_FETCH_CONCURRENCY = 2;
+
+export type ReadAssetText = (url: string) => Promise<string>;
+
+function parseSHA256(content: string, assetName: string): string {
+  const digest = content.trim();
+  if (!SHA256_RE.test(digest)) {
+    throw new Error(`Nightly checksum asset ${assetName} must contain exactly 64 hexadecimal characters`);
+  }
+  return digest.toLowerCase();
+}
+
+async function readPublishedSDKChecksums(
+  releases: RawRelease[],
+  readAssetText: ReadAssetText,
+  existingChecksums: Map<string, string>,
+): Promise<Map<string, string>> {
+  const sidecars = releases.flatMap((release) => {
+    const sdkByName = new Map(
+      release.assets
+        .filter((asset) => nightlySdkIdentity(asset.name) !== null)
+        .map((asset) => [asset.name, asset]),
+    );
+    return release.assets.flatMap((sidecar) => {
+      if (!sidecar.name.endsWith(".sha256")) return [];
+      const sdk = sdkByName.get(sidecar.name.slice(0, -".sha256".length));
+      return sdk ? [{ sdk, sidecar }] : [];
+    });
+  });
+  const checksums = new Map<string, string>();
+  const pending = sidecars.filter(({ sdk, sidecar }) => {
+    const existing = existingChecksums.get(sdk.url);
+    if (!existing) return true;
+    checksums.set(sidecar.url, existing);
+    return false;
+  });
+  let next = 0;
+  const worker = async () => {
+    while (next < pending.length) {
+      const { sidecar } = pending[next++];
+      checksums.set(sidecar.url, parseSHA256(await readAssetText(sidecar.url), sidecar.name));
+    }
+  };
+  await Promise.all(
+    Array.from({ length: Math.min(CHECKSUM_FETCH_CONCURRENCY, pending.length) }, () => worker()),
+  );
+  return checksums;
+}
+
+function existingSDKChecksums(channel?: ChannelData): Map<string, string> {
+  const checksums = new Map<string, string>();
+  for (const platforms of Object.values(channel?.versions ?? {})) {
+    for (const sdk of Object.values(platforms)) {
+      if (sdk?.sha256) checksums.set(sdk.url, sdk.sha256);
+    }
+  }
+  return checksums;
+}
 
 function nightlySdkIdentity(name: string): { version: string; toolchain: string } | null {
   const normalized = name.toLowerCase().replaceAll("_", "-");
@@ -43,12 +102,23 @@ function releaseComponents(release: RawRelease, version: string): VersionCompone
   return Object.keys(components).length > 0 ? components : undefined;
 }
 
-export function buildNightlyChannel(releases: RawRelease[]): ChannelData {
+export async function buildNightlyChannel(
+  releases: RawRelease[],
+  readAssetText: ReadAssetText,
+  existing?: ChannelData,
+): Promise<ChannelData> {
   const versions: Record<string, VersionPackages> = {};
   const components: Record<string, VersionComponents> = {};
+  const knownChecksums = existingSDKChecksums(existing);
+  const publishedChecksums = await readPublishedSDKChecksums(releases, readAssetText, knownChecksums);
 
   for (const release of releases) {
     const packages: VersionPackages = {};
+    const checksumAssets = new Map(
+      release.assets
+        .filter((asset) => asset.name.endsWith(".sha256"))
+        .map((asset) => [asset.name.slice(0, -".sha256".length), asset]),
+    );
     let releaseVersion = "";
     for (const asset of release.assets) {
       if (asset.type === "source") continue;
@@ -58,7 +128,11 @@ export function buildNightlyChannel(releases: RawRelease[]): ChannelData {
         throw new Error(`Nightly release ${release.tag} contains SDK versions ${releaseVersion} and ${identity.version}`);
       }
       releaseVersion = identity.version;
-      const entry: SdkPackage = { name: asset.name, sha256: "", url: asset.url };
+      const checksumAsset = checksumAssets.get(asset.name);
+      const sha256 = checksumAsset
+        ? publishedChecksums.get(checksumAsset.url) ?? ""
+        : knownChecksums.get(asset.url) ?? "";
+      const entry: SdkPackage = { name: asset.name, sha256, url: asset.url };
       packages[identity.toolchain] = entry;
     }
     if (!releaseVersion || Object.keys(packages).length === 0) continue;
