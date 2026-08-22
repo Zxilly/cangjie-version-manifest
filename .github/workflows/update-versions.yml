@@ -9,6 +9,10 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: update-version-manifest
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -24,7 +28,7 @@ jobs:
 
       - run: pnpm install --frozen-lockfile
 
-      - run: pnpm scrape
+      - run: pnpm scrape:releases
         env:
           # Lifts the GitHub API rate limit when fetching cangjie-docs-bundle
           # releases for the doc component links.
@@ -35,8 +39,8 @@ jobs:
           commit-message: 'chore: update Cangjie SDK versions'
           title: 'chore: update Cangjie SDK versions'
           body: |
-            Automated update of `versions.json` with latest
-            Cangjie SDK version information from cangjie-lang.cn.
+            Automated, reviewable update of the LTS and STS channels in
+            `versions.json` from cangjie-lang.cn and component release data.
           branch: auto/update-versions
           delete-branch: true
           labels: automated
