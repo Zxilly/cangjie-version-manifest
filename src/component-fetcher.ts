@@ -9,6 +9,7 @@ const MAX_PAGES = 20;
 
 // stdx 与 stdx-doc 发布在 gitcode 的 cangjie_stdx 仓库。
 const STDX_RELEASES_API = "https://api.gitcode.com/api/v5/repos/Cangjie/cangjie_stdx/releases";
+const NIGHTLY_RELEASES_API = "https://api.gitcode.com/api/v5/repos/Cangjie/nightly_build/releases";
 // 主文档发布在 cangjie-docs-bundle（github）, 转载官方文档站点的 HTML 归档。
 const DOCS_RELEASES_API = "https://api.github.com/repos/Zxilly/cangjie-docs-bundle/releases";
 
@@ -104,6 +105,13 @@ export async function fetchStdxReleases(): Promise<RawRelease[]> {
   console.error(`Fetching stdx releases from ${STDX_RELEASES_API}…`);
   const releases = await fetchAllReleases(STDX_RELEASES_API, {});
   console.error(`  found ${releases.length} stdx release(s)`);
+  return releases;
+}
+
+export async function fetchNightlyReleases(): Promise<RawRelease[]> {
+  console.error(`Fetching nightly releases from ${NIGHTLY_RELEASES_API}…`);
+  const releases = await fetchAllReleases(NIGHTLY_RELEASES_API, {});
+  console.error(`  found ${releases.length} nightly release(s)`);
   return releases;
 }
 

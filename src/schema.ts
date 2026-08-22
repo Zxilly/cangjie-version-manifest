@@ -56,9 +56,8 @@ export const SdkPackageSchema = z.object({
 // ─── 组件（doc / stdx / stdx-doc）输出 Schema ────────────────────────────────
 //
 // 组件归档发布在 SDK 之外的仓库（stdx / stdx-doc 在 gitcode cangjie_stdx,
-// doc 在 cangjie-docs-bundle）, 其 tag 与文件名约定历来不一致, 故这里直接收录
-// release API 返回的真实下载链接, 不做任何 URL 推导。组件归档不提供 sha256,
-// 因此只保留 name + url。
+// doc 在 cangjie-docs-bundle）。这里直接收录 release API 返回的真实下载链接，
+// 以适配各仓库的 tag 与文件名约定。组件条目由 name + url 构成。
 export const ComponentPackageSchema = z.object({
   name: z.string(),
   url: z.string(),
@@ -70,6 +69,20 @@ export const VersionComponentsSchema = z.object({
   docs: ComponentPackageSchema.optional(),
   "stdx-docs": ComponentPackageSchema.optional(),
   stdx: z.record(z.string(), ComponentPackageSchema).optional(),
+});
+
+export const ChannelDataSchema = z.object({
+  versions: z.record(z.string(), z.record(z.string(), SdkPackageSchema)),
+  latest: z.string().nullable(),
+  components: z.record(z.string(), VersionComponentsSchema).optional(),
+});
+
+export const OutputManifestSchema = z.object({
+  channels: z.object({
+    sts: ChannelDataSchema,
+    lts: ChannelDataSchema,
+    nightly: ChannelDataSchema.optional(),
+  }),
 });
 
 // ─── 推导类型 ─────────────────────────────────────────────────────────────────

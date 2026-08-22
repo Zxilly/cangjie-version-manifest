@@ -123,6 +123,7 @@ export interface OutputManifest {
   channels: {
     sts: ChannelData;
     lts: ChannelData;
+    nightly?: ChannelData;
   };
 }
 

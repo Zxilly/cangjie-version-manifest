@@ -16,6 +16,10 @@ The [`versions.json`](./versions.json) file contains all available SDK versions,
     "lts": {
       "versions": { /* ... */ },
       "latest": "1.0.5"
+    },
+    "nightly": {
+      "versions": { /* ... */ },
+      "latest": "1.3.0-alpha.20260822010033"
     }
   }
 }
@@ -67,24 +71,34 @@ binaries, keyed by archive platform token):
 ```
 
 These links are taken verbatim from the upstream release APIs (gitcode
-`cangjie_stdx` for `stdx` / `stdx-docs`, `cangjie-docs-bundle` for `docs`) rather
-than reconstructed, because the upstream release tags and asset filenames do not
-follow a consistent rule. The `stdx` platform tokens match the archive filenames
+`cangjie_stdx` for `stdx` / `stdx-docs`, `cangjie-docs-bundle` for `docs`), which
+makes each upstream asset authoritative across the repositories' naming schemes.
+The `stdx` platform tokens match the archive filenames
 (e.g. `linux-x64`, `linux-aarch64`, `mac-aarch64`, `windows-x64`, `ohos-aarch64`,
 `ohos-x64`, `android-aarch64`, `ios-aarch64`, `ios-simulator-x64`). A component
-entry carries only `name` and `url`; these archives ship without a published
-checksum. A version appears under `components` only for the add-ons it actually
+entry carries `name` and `url`. A version appears under `components` for the add-ons it actually
 publishes.
+
+### Nightly
+
+The `nightly` channel is generated from the static assets of GitCode
+`Cangjie/nightly_build` Releases. Release discovery and tag-to-asset-version
+mapping happen in this repository; manifest consumers use the resulting URLs
+and version metadata directly.
 
 ## Automation
 
-A GitHub Actions workflow runs every 6 hours to scrape the latest version data from cangjie-lang.cn. If `versions.json` changes, a PR is automatically created.
+The nightly workflow runs every 6 hours and commits `channels.nightly` directly
+to `master`. The release workflow updates LTS/STS and their components on a PR
+for review. Both workflows share one concurrency group and update only their
+owned channel fields.
 
 ## Local Usage
 
 ```bash
 pnpm install
-pnpm scrape
+pnpm scrape:releases
+pnpm scrape:nightly
 ```
 
 ## License

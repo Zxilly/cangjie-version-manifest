@@ -4,7 +4,9 @@
   "type": "module",
   "license": "ISC",
   "scripts": {
-    "scrape": "tsx src/main.ts",
+    "scrape": "pnpm scrape:releases",
+    "scrape:releases": "tsx src/main.ts",
+    "scrape:nightly": "tsx src/nightly-main.ts",
     "test": "node --import tsx --test tests/*.test.ts"
   },
   "dependencies": {
