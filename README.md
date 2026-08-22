@@ -1,10 +1,11 @@
 # cangjie-version-manifest
 
-Machine-readable version manifest for [Cangjie Programming Language](https://cangjie-lang.cn) SDK releases.
+Machine-readable version manifest for
+[Cangjie Programming Language](https://cangjie-lang.cn) SDK releases.
 
 ## `versions.json`
 
-The [`versions.json`](./versions.json) file contains all available SDK versions, organized by release channel:
+The [`versions.json`](./versions.json) file contains the reviewed LTS and STS releases:
 
 ```jsonc
 {
@@ -16,19 +17,29 @@ The [`versions.json`](./versions.json) file contains all available SDK versions,
     "lts": {
       "versions": { /* ... */ },
       "latest": "1.0.5"
-    },
-    "nightly": {
-      "versions": { /* ... */ },
-      "latest": "1.3.0-alpha.20260822010033"
     }
   }
 }
 ```
 
+The independently generated [`nightly.json`](./nightly.json) contains the
+nightly channel document:
+
+```jsonc
+{
+  "versions": { /* ... */ },
+  "latest": "1.3.0-alpha.20260822010033",
+  "components": { /* ... */ }
+}
+```
+
+Consumers fetch `nightly.json` only for nightly operations, keeping the common
+LTS/STS metadata request compact.
+
 Each version entry is keyed by toolchain. Native SDKs use the host platform key:
 
 | Key | Host platform |
-|-----|---------------|
+| --- | --- |
 | `win32-x64` | Windows x64 |
 | `darwin-arm64` | macOS Apple Silicon |
 | `darwin-x64` | macOS Intel |
@@ -37,8 +48,8 @@ Each version entry is keyed by toolchain. Native SDKs use the host platform key:
 | `ohos-arm64` | OpenHarmony AArch64 |
 | `ohos-x64` | OpenHarmony x64 |
 
-Cross-compilation SDKs use `<host-platform>-<target>`, where `target` preserves the
-target platform tokens published by upstream. For example, `win32-x64-ohos`,
+Cross-compilation SDKs use `<host-platform>-<target>`, where `target` preserves
+the target platform tokens published by upstream. For example, `win32-x64-ohos`,
 `darwin-arm64-ios`, `linux-x64-android`, and `win32-x64-ohos-arm32`.
 
 Each toolchain entry contains `name`, `sha256`, and `url`.
@@ -59,11 +70,23 @@ binaries, keyed by archive platform token):
     "sts": {
       "components": {
         "1.1.0-beta.25": {
-          "docs":      { "name": "cangjie-docs-html-1.1.0-beta.25.tar.gz", "url": "..." },
-          "stdx-docs": { "name": "cangjie-stdx-docs-html-1.1.0-beta.25.1.tar.gz", "url": "..." },
+          "docs": {
+            "name": "cangjie-docs-html-1.1.0-beta.25.tar.gz",
+            "url": "..."
+          },
+          "stdx-docs": {
+            "name": "cangjie-stdx-docs-html-1.1.0-beta.25.1.tar.gz",
+            "url": "..."
+          },
           "stdx": {
-            "linux-x64":     { "name": "cangjie-stdx-linux-x64-1.1.0-beta.25.1.zip", "url": "..." },
-            "ohos-aarch64":  { "name": "cangjie-stdx-ohos-aarch64-1.1.0-beta.25.1.zip", "url": "..." }
+            "linux-x64": {
+              "name": "cangjie-stdx-linux-x64-1.1.0-beta.25.1.zip",
+              "url": "..."
+            },
+            "ohos-aarch64": {
+              "name": "cangjie-stdx-ohos-aarch64-1.1.0-beta.25.1.zip",
+              "url": "..."
+            }
             /* ... */
           }
         }
@@ -79,8 +102,8 @@ makes each upstream asset authoritative across the repositories' naming schemes.
 The `stdx` platform tokens match the archive filenames
 (e.g. `linux-x64`, `linux-aarch64`, `mac-aarch64`, `windows-x64`, `ohos-aarch64`,
 `ohos-x64`, `android-aarch64`, `ios-aarch64`, `ios-simulator-x64`). A component
-entry carries `name` and `url`. A version appears under `components` for the add-ons it actually
-publishes.
+entry carries `name` and `url`. A version appears under `components` for the
+add-ons it actually publishes.
 
 ### Nightly
 
@@ -91,10 +114,10 @@ and version metadata directly.
 
 ## Automation
 
-The nightly workflow runs every 6 hours and commits `channels.nightly` directly
-to `master`. The release workflow updates LTS/STS and their components on a PR
-for review. Both workflows share one concurrency group and update only their
-owned channel fields.
+The nightly workflow runs every 6 hours and commits `nightly.json` directly to
+`master`. The release workflow updates `versions.json` with LTS/STS and their
+components on a PR for review. Both workflows share one concurrency group and
+own separate files.
 
 ## Local Usage
 

@@ -1,7 +1,7 @@
 import { getAllJsUrls, fetchUrl } from "./fetcher.js";
 import { fetchDocsReleases, fetchStdxReleases } from "./component-fetcher.js";
-import { readManifest, writeManifest } from "./manifest-file.js";
-import { updateReleaseChannels } from "./manifest-update.js";
+import { writeManifest } from "./manifest-file.js";
+import { releaseManifest } from "./manifest-update.js";
 import { tryParseVersionScript } from "./parser.js";
 import { attachComponents, transformVersionData } from "./transform.js";
 import type { VersionMap } from "./schema.js";
@@ -54,8 +54,7 @@ async function main(): Promise<void> {
     console.error(`Warning: failed to attach components: ${(e as Error).message}`);
   }
 
-  const existing = await readManifest();
-  await writeManifest(updateReleaseChannels(existing, manifest));
+  await writeManifest(releaseManifest(manifest));
 }
 
 main().catch((e: Error) => {
