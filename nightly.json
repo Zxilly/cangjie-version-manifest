@@ -17627,10 +17627,6 @@
       }
     },
     "1.1.0-alpha.20260101020001": {
-      "docs": {
-        "name": "cangjie-docs-html-1.1.0-alpha.20260101020001.tar.gz",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260101020001/cangjie-docs-html-1.1.0-alpha.20260101020001.tar.gz"
-      },
       "stdx": {
         "android-aarch64": {
           "name": "cangjie-stdx-android-aarch64-1.1.0-alpha.20260101020001.1.zip",
@@ -17667,10 +17663,6 @@
         "ohos-aarch64": {
           "name": "cangjie-stdx-ohos-aarch64-1.1.0-alpha.20260101020001.1.zip",
           "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260101020001/cangjie-stdx-ohos-aarch64-1.1.0-alpha.20260101020001.1.zip"
-        },
-        "ohos-x64": {
-          "name": "cangjie-stdx-ohos-x64-1.1.0-alpha.20260101020001.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.1.0-alpha.20260101020001/cangjie-stdx-ohos-x64-1.1.0-alpha.20260101020001.1.zip"
         },
         "windows-x64": {
           "name": "cangjie-stdx-windows-x64-1.1.0-alpha.20260101020001.1.zip",
