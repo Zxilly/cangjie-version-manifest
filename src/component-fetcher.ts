@@ -24,7 +24,7 @@ interface ApiRelease {
   assets?: ApiReleaseAsset[];
 }
 
-function fetchJson(
+export function fetchJson(
   url: string,
   headers: Record<string, string>,
   redirectsLeft = MAX_REDIRECTS,

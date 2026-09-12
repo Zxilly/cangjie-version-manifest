@@ -1,4 +1,5 @@
 import semver from "semver";
+import type { ScoopChecksum } from "./nightly-scoop.js";
 import { parseStdxRelease, type RawRelease } from "./components.js";
 import type { ComponentPackage, SdkPackage, VersionComponents, VersionPackages } from "./schema.js";
 import { detectToolchainKey, type ChannelData } from "./transform.js";
@@ -28,7 +29,10 @@ async function readPublishedSDKChecksums(
   const sidecars = releases.flatMap((release) => {
     const sdkByName = new Map(
       release.assets
-        .filter((asset) => nightlySdkIdentity(asset.name) !== null)
+        .filter((asset) => {
+          const identity = nightlySdkIdentity(asset.name);
+          return identity !== null && identity.toolchain !== "win32-x64";
+        })
         .map((asset) => [asset.name, asset]),
     );
     return release.assets.flatMap((sidecar) => {
@@ -106,6 +110,7 @@ export async function buildNightlyChannel(
   releases: RawRelease[],
   readAssetText: ReadAssetText,
   existing?: ChannelData,
+  scoopChecksums: ReadonlyMap<string, ScoopChecksum> = new Map(),
 ): Promise<ChannelData> {
   const versions: Record<string, VersionPackages> = {};
   const components: Record<string, VersionComponents> = {};
@@ -128,10 +133,23 @@ export async function buildNightlyChannel(
         throw new Error(`Nightly release ${release.tag} contains SDK versions ${releaseVersion} and ${identity.version}`);
       }
       releaseVersion = identity.version;
-      const checksumAsset = checksumAssets.get(asset.name);
-      const sha256 = checksumAsset
-        ? publishedChecksums.get(checksumAsset.url) ?? ""
-        : knownChecksums.get(asset.url) ?? "";
+      // Workaround: native Windows .zip.sha256 assets have been incorrect since
+      // 2026-09-03. Only trust the version/URL-matched upstream Scoop history;
+      // neither cached sidecar hashes nor an empty hash is safe (cjv retries it).
+      let sha256: string;
+      if (identity.toolchain === "win32-x64") {
+        const scoop = scoopChecksums.get(asset.url);
+        if (!scoop || scoop.version !== identity.version) {
+          console.error(`Skipping Windows SDK without matching Scoop checksum: ${asset.name}`);
+          continue;
+        }
+        sha256 = parseSHA256(scoop.sha256, asset.name);
+      } else {
+        const checksumAsset = checksumAssets.get(asset.name);
+        sha256 = checksumAsset
+          ? publishedChecksums.get(checksumAsset.url) ?? ""
+          : knownChecksums.get(asset.url) ?? "";
+      }
       const entry: SdkPackage = { name: asset.name, sha256, url: asset.url };
       packages[identity.toolchain] = entry;
     }

@@ -31,7 +31,7 @@ test("buildNightlyChannel persists a published SDK checksum sidecar", async () =
   const channel = await buildNightlyChannel([release], async (url) => {
     assert.equal(url, sidecarURL);
     return checksum;
-  });
+  }, undefined, new Map([[`${BASE}/${tag}/cangjie-sdk-windows-x64-${version}.zip`, { version, sha256: checksum }]]));
 
   assert.equal(channel.latest, version);
   assert.deepEqual(Object.keys(channel.versions[version]).sort(), ["linux-x64", "win32-x64"]);
@@ -40,7 +40,7 @@ test("buildNightlyChannel persists a published SDK checksum sidecar", async () =
     sha256: checksum,
     url: `${BASE}/${tag}/cangjie-sdk-linux-x64-${version}.tar.gz`,
   });
-  assert.equal(channel.versions[version]["win32-x64"].sha256, "");
+  assert.equal(channel.versions[version]["win32-x64"].sha256, checksum);
   assert.equal(channel.components?.[version].docs?.name, `cangjie-docs-html-${version}.tar.gz`);
   assert.equal(channel.components?.[version].stdx?.["linux-x64"].name, `cangjie-stdx-linux-x64-${version}.1.zip`);
   assert.equal(channel.components?.[version]["stdx-docs"]?.name, `cangjie-stdx-docs-html-${version}.1.tar.gz`);
