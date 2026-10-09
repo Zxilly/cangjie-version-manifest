@@ -1,134 +1,5 @@
 {
   "versions": {
-    "1.3.0-alpha.20260909101640": {
-      "linux-arm64": {
-        "name": "cangjie-sdk-linux-aarch64-1.3.0-alpha.20260909101640.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-linux-aarch64-1.3.0-alpha.20260909101640.tar.gz"
-      },
-      "linux-x64": {
-        "name": "cangjie-sdk-linux-x64-1.3.0-alpha.20260909101640.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-linux-x64-1.3.0-alpha.20260909101640.tar.gz"
-      },
-      "linux-x64-android": {
-        "name": "cangjie-sdk-linux-x64-android-1.3.0-alpha.20260909101640.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-linux-x64-android-1.3.0-alpha.20260909101640.tar.gz"
-      },
-      "linux-x64-ohos": {
-        "name": "cangjie-sdk-linux-x64-ohos-1.3.0-alpha.20260909101640.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-linux-x64-ohos-1.3.0-alpha.20260909101640.tar.gz"
-      },
-      "darwin-arm64": {
-        "name": "cangjie-sdk-mac-aarch64-1.3.0-alpha.20260909101640.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-mac-aarch64-1.3.0-alpha.20260909101640.tar.gz"
-      },
-      "darwin-x64": {
-        "name": "cangjie-sdk-mac-x64-1.3.0-alpha.20260909101640.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-mac-x64-1.3.0-alpha.20260909101640.tar.gz"
-      },
-      "ohos-arm64": {
-        "name": "cangjie-sdk-ohos-aarch64-1.3.0-alpha.20260909101640.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-ohos-aarch64-1.3.0-alpha.20260909101640.tar.gz"
-      },
-      "win32-x64": {
-        "name": "cangjie-sdk-windows-x64-1.3.0-alpha.20260909101640.zip",
-        "sha256": "ce65aafaa38e19b22d4a6d2735d84809c1931be049b69fb3495aefcaa11479ba",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-windows-x64-1.3.0-alpha.20260909101640.zip"
-      },
-      "win32-x64-android": {
-        "name": "cangjie-sdk-windows-x64-android-1.3.0-alpha.20260909101640.zip",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-windows-x64-android-1.3.0-alpha.20260909101640.zip"
-      },
-      "win32-x64-ohos": {
-        "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260909101640.zip",
-        "sha256": "24fd59d91fdb0a87e2bd4b2dd77b2bd1594a4e81599fc305a0c50d6062c3dd13",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260909101640.zip"
-      },
-      "win32-x64-ohos-arm32": {
-        "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260909101640.zip",
-        "sha256": "75a8a258351ef6e7fdd8742bf4344d1305d5fd9a22363d7f0e00088dc5de96d6",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260909101640.zip"
-      }
-    },
-    "1.3.0-alpha.20260910010016": {
-      "linux-arm64": {
-        "name": "cangjie-sdk-linux-aarch64-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-linux-aarch64-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "linux-x64": {
-        "name": "cangjie-sdk-linux-x64-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-linux-x64-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "linux-x64-android": {
-        "name": "cangjie-sdk-linux-x64-android-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-linux-x64-android-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "linux-x64-ohos": {
-        "name": "cangjie-sdk-linux-x64-ohos-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-linux-x64-ohos-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "darwin-arm64": {
-        "name": "cangjie-sdk-mac-aarch64-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-mac-aarch64-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "darwin-arm64-android": {
-        "name": "cangjie-sdk-mac-aarch64-android-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-mac-aarch64-android-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "darwin-arm64-ios": {
-        "name": "cangjie-sdk-mac-aarch64-ios-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-mac-aarch64-ios-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "darwin-arm64-ohos": {
-        "name": "cangjie-sdk-mac-aarch64-ohos-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-mac-aarch64-ohos-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "darwin-x64": {
-        "name": "cangjie-sdk-mac-x64-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-mac-x64-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "ohos-arm64": {
-        "name": "cangjie-sdk-ohos-aarch64-1.3.0-alpha.20260910010016.tar.gz",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-ohos-aarch64-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "win32-x64": {
-        "name": "cangjie-sdk-windows-x64-1.3.0-alpha.20260910010016.zip",
-        "sha256": "c311baee32c407bb38165ff762c7c7e3a940cab4ba4b7381e12ad2dd1bb25759",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-windows-x64-1.3.0-alpha.20260910010016.zip"
-      },
-      "win32-x64-android": {
-        "name": "cangjie-sdk-windows-x64-android-1.3.0-alpha.20260910010016.zip",
-        "sha256": "",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-windows-x64-android-1.3.0-alpha.20260910010016.zip"
-      },
-      "win32-x64-ohos": {
-        "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260910010016.zip",
-        "sha256": "193b066e032fa8fd2a7fa8eea27f39359a8d31fea2f31e8d31da23bc314957aa",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20260910010016.zip"
-      },
-      "win32-x64-ohos-arm32": {
-        "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260910010016.zip",
-        "sha256": "2bd5cae3d823956ed59b05b46ea682de92e33a0b5443f08046e06f1acf7b2a9d",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20260910010016.zip"
-      }
-    },
     "1.3.0-alpha.20260911010036": {
       "linux-arm64": {
         "name": "cangjie-sdk-linux-aarch64-1.3.0-alpha.20260911010036.tar.gz",
@@ -1911,114 +1782,82 @@
         "sha256": "8fba4549fa20986a51b3ea6d9d0313afcaa25f4bf50cac1208e5c9f10dcc8b42",
         "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261009001050/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20261009001050.zip"
       }
+    },
+    "1.3.0-alpha.20261010001050": {
+      "linux-arm64": {
+        "name": "cangjie-sdk-linux-aarch64-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-linux-aarch64-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "linux-x64": {
+        "name": "cangjie-sdk-linux-x64-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-linux-x64-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "linux-x64-android": {
+        "name": "cangjie-sdk-linux-x64-android-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-linux-x64-android-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "linux-x64-ohos": {
+        "name": "cangjie-sdk-linux-x64-ohos-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-linux-x64-ohos-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "darwin-arm64": {
+        "name": "cangjie-sdk-mac-aarch64-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-mac-aarch64-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "darwin-arm64-android": {
+        "name": "cangjie-sdk-mac-aarch64-android-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-mac-aarch64-android-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "darwin-arm64-ios": {
+        "name": "cangjie-sdk-mac-aarch64-ios-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-mac-aarch64-ios-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "darwin-arm64-ohos": {
+        "name": "cangjie-sdk-mac-aarch64-ohos-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-mac-aarch64-ohos-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "darwin-x64": {
+        "name": "cangjie-sdk-mac-x64-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-mac-x64-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "ohos-arm64": {
+        "name": "cangjie-sdk-ohos-aarch64-1.3.0-alpha.20261010001050.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-ohos-aarch64-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "win32-x64": {
+        "name": "cangjie-sdk-windows-x64-1.3.0-alpha.20261010001050.zip",
+        "sha256": "41a9a5b51ad58f20a3b5c5acf4dd6ae3a8630778765bc4ba920393728671a1bf",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-windows-x64-1.3.0-alpha.20261010001050.zip"
+      },
+      "win32-x64-android": {
+        "name": "cangjie-sdk-windows-x64-android-1.3.0-alpha.20261010001050.zip",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-windows-x64-android-1.3.0-alpha.20261010001050.zip"
+      },
+      "win32-x64-ohos": {
+        "name": "cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20261010001050.zip",
+        "sha256": "1bfb09e424963528da84b101500cd8800f268ba80cd448b2d6e9de8ca7828f6e",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-windows-x64-ohos-1.3.0-alpha.20261010001050.zip"
+      },
+      "win32-x64-ohos-arm32": {
+        "name": "cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20261010001050.zip",
+        "sha256": "2d556dbe74a990a03a96f5daf9c38f71c21fc568b510160310573b92bc893394",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-sdk-windows-x64-ohos-arm32-1.3.0-alpha.20261010001050.zip"
+      }
     }
   },
-  "latest": "1.3.0-alpha.20261009001050",
+  "latest": "1.3.0-alpha.20261010001050",
   "components": {
-    "1.3.0-alpha.20260909101640": {
-      "docs": {
-        "name": "cangjie-docs-html-1.3.0-alpha.20260909101640.tar.gz",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-docs-html-1.3.0-alpha.20260909101640.tar.gz"
-      },
-      "stdx": {
-        "android-aarch64": {
-          "name": "cangjie-stdx-android-aarch64-1.3.0-alpha.20260909101640.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-android-aarch64-1.3.0-alpha.20260909101640.1.zip"
-        },
-        "linux-aarch64": {
-          "name": "cangjie-stdx-linux-aarch64-1.3.0-alpha.20260909101640.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-linux-aarch64-1.3.0-alpha.20260909101640.1.zip"
-        },
-        "linux-x64": {
-          "name": "cangjie-stdx-linux-x64-1.3.0-alpha.20260909101640.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-linux-x64-1.3.0-alpha.20260909101640.1.zip"
-        },
-        "mac-aarch64": {
-          "name": "cangjie-stdx-mac-aarch64-1.3.0-alpha.20260909101640.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-mac-aarch64-1.3.0-alpha.20260909101640.1.zip"
-        },
-        "mac-x64": {
-          "name": "cangjie-stdx-mac-x64-1.3.0-alpha.20260909101640.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-mac-x64-1.3.0-alpha.20260909101640.1.zip"
-        },
-        "ohos-aarch64": {
-          "name": "cangjie-stdx-ohos-aarch64-1.3.0-alpha.20260909101640.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-ohos-aarch64-1.3.0-alpha.20260909101640.1.zip"
-        },
-        "ohos-x64": {
-          "name": "cangjie-stdx-ohos-x64-1.3.0-alpha.20260909101640.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-ohos-x64-1.3.0-alpha.20260909101640.1.zip"
-        },
-        "windows-x64": {
-          "name": "cangjie-stdx-windows-x64-1.3.0-alpha.20260909101640.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-windows-x64-1.3.0-alpha.20260909101640.1.zip"
-        }
-      },
-      "stdx-docs": {
-        "name": "cangjie-stdx-docs-html-1.3.0-alpha.20260909101640.1.tar.gz",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260909101640/cangjie-stdx-docs-html-1.3.0-alpha.20260909101640.1.tar.gz"
-      }
-    },
-    "1.3.0-alpha.20260910010016": {
-      "docs": {
-        "name": "cangjie-docs-html-1.3.0-alpha.20260910010016.tar.gz",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-docs-html-1.3.0-alpha.20260910010016.tar.gz"
-      },
-      "stdx": {
-        "android-aarch64": {
-          "name": "cangjie-stdx-android-aarch64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-android-aarch64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "android-arm32": {
-          "name": "cangjie-stdx-android-arm32-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-android-arm32-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "ios-aarch64": {
-          "name": "cangjie-stdx-ios-aarch64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-ios-aarch64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "ios-simulator-aarch64": {
-          "name": "cangjie-stdx-ios-simulator-aarch64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-ios-simulator-aarch64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "ios-simulator-x64": {
-          "name": "cangjie-stdx-ios-simulator-x64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-ios-simulator-x64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "linux-aarch64": {
-          "name": "cangjie-stdx-linux-aarch64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-linux-aarch64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "linux-x64": {
-          "name": "cangjie-stdx-linux-x64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-linux-x64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "mac-aarch64": {
-          "name": "cangjie-stdx-mac-aarch64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-mac-aarch64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "mac-x64": {
-          "name": "cangjie-stdx-mac-x64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-mac-x64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "ohos-aarch64": {
-          "name": "cangjie-stdx-ohos-aarch64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-ohos-aarch64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "ohos-x64": {
-          "name": "cangjie-stdx-ohos-x64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-ohos-x64-1.3.0-alpha.20260910010016.1.zip"
-        },
-        "windows-x64": {
-          "name": "cangjie-stdx-windows-x64-1.3.0-alpha.20260910010016.1.zip",
-          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-windows-x64-1.3.0-alpha.20260910010016.1.zip"
-        }
-      },
-      "stdx-docs": {
-        "name": "cangjie-stdx-docs-html-1.3.0-alpha.20260910010016.1.tar.gz",
-        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20260910010016/cangjie-stdx-docs-html-1.3.0-alpha.20260910010016.1.tar.gz"
-      }
-    },
     "1.3.0-alpha.20260911010036": {
       "docs": {
         "name": "cangjie-docs-html-1.3.0-alpha.20260911010036.tar.gz",
@@ -3465,6 +3304,62 @@
       "stdx-docs": {
         "name": "cangjie-stdx-docs-html-1.3.0-alpha.20261009001050.1.tar.gz",
         "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261009001050/cangjie-stdx-docs-html-1.3.0-alpha.20261009001050.1.tar.gz"
+      }
+    },
+    "1.3.0-alpha.20261010001050": {
+      "docs": {
+        "name": "cangjie-docs-html-1.3.0-alpha.20261010001050.tar.gz",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-docs-html-1.3.0-alpha.20261010001050.tar.gz"
+      },
+      "stdx": {
+        "android-aarch64": {
+          "name": "cangjie-stdx-android-aarch64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-android-aarch64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "android-arm32": {
+          "name": "cangjie-stdx-android-arm32-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-android-arm32-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "ios-aarch64": {
+          "name": "cangjie-stdx-ios-aarch64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-ios-aarch64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "ios-simulator-aarch64": {
+          "name": "cangjie-stdx-ios-simulator-aarch64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-ios-simulator-aarch64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "linux-aarch64": {
+          "name": "cangjie-stdx-linux-aarch64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-linux-aarch64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "linux-x64": {
+          "name": "cangjie-stdx-linux-x64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-linux-x64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "mac-aarch64": {
+          "name": "cangjie-stdx-mac-aarch64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-mac-aarch64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "mac-x64": {
+          "name": "cangjie-stdx-mac-x64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-mac-x64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "ohos-aarch64": {
+          "name": "cangjie-stdx-ohos-aarch64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-ohos-aarch64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "ohos-x64": {
+          "name": "cangjie-stdx-ohos-x64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-ohos-x64-1.3.0-alpha.20261010001050.1.zip"
+        },
+        "windows-x64": {
+          "name": "cangjie-stdx-windows-x64-1.3.0-alpha.20261010001050.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-windows-x64-1.3.0-alpha.20261010001050.1.zip"
+        }
+      },
+      "stdx-docs": {
+        "name": "cangjie-stdx-docs-html-1.3.0-alpha.20261010001050.1.tar.gz",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261010001050/cangjie-stdx-docs-html-1.3.0-alpha.20261010001050.1.tar.gz"
       }
     }
   }
