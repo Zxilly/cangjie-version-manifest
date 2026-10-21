@@ -1884,6 +1884,21 @@
         "sha256": "",
         "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-sdk-mac-aarch64-1.3.0-alpha.20261021001052.tar.gz"
       },
+      "darwin-arm64-android": {
+        "name": "cangjie-sdk-mac-aarch64-android-1.3.0-alpha.20261021001052.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-sdk-mac-aarch64-android-1.3.0-alpha.20261021001052.tar.gz"
+      },
+      "darwin-arm64-ios": {
+        "name": "cangjie-sdk-mac-aarch64-ios-1.3.0-alpha.20261021001052.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-sdk-mac-aarch64-ios-1.3.0-alpha.20261021001052.tar.gz"
+      },
+      "darwin-arm64-ohos": {
+        "name": "cangjie-sdk-mac-aarch64-ohos-1.3.0-alpha.20261021001052.tar.gz",
+        "sha256": "",
+        "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-sdk-mac-aarch64-ohos-1.3.0-alpha.20261021001052.tar.gz"
+      },
       "darwin-x64": {
         "name": "cangjie-sdk-mac-x64-1.3.0-alpha.20261021001052.tar.gz",
         "sha256": "",
@@ -3423,6 +3438,22 @@
         "android-aarch64": {
           "name": "cangjie-stdx-android-aarch64-1.3.0-alpha.20261021001052.1.zip",
           "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-stdx-android-aarch64-1.3.0-alpha.20261021001052.1.zip"
+        },
+        "android-arm32": {
+          "name": "cangjie-stdx-android-arm32-1.3.0-alpha.20261021001052.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-stdx-android-arm32-1.3.0-alpha.20261021001052.1.zip"
+        },
+        "ios-aarch64": {
+          "name": "cangjie-stdx-ios-aarch64-1.3.0-alpha.20261021001052.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-stdx-ios-aarch64-1.3.0-alpha.20261021001052.1.zip"
+        },
+        "ios-simulator-aarch64": {
+          "name": "cangjie-stdx-ios-simulator-aarch64-1.3.0-alpha.20261021001052.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-stdx-ios-simulator-aarch64-1.3.0-alpha.20261021001052.1.zip"
+        },
+        "ios-simulator-x64": {
+          "name": "cangjie-stdx-ios-simulator-x64-1.3.0-alpha.20261021001052.1.zip",
+          "url": "https://gitcode.com/Cangjie/nightly_build/releases/download/1.3.0-alpha.20261021001052/cangjie-stdx-ios-simulator-x64-1.3.0-alpha.20261021001052.1.zip"
         },
         "linux-aarch64": {
           "name": "cangjie-stdx-linux-aarch64-1.3.0-alpha.20261021001052.1.zip",
