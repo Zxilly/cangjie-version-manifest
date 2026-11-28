@@ -111,9 +111,31 @@
             "sha256": "BACAD84DF8E0281C5395BAB4C40E481E3EA6CC712EED5C953903B0D561A14562",
             "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.0.5.tar.gz&objectKey=698acf46bd66ae22b62330b0"
           }
+        },
+        "1.0.6": {
+          "win32-x64": {
+            "name": "cangjie-sdk-windows-x64-1.0.6.zip",
+            "sha256": "939ba3131f566100ee6b86e6a19be95e7e8de96fdce02e9d8e8a16e96eb38c44",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-windows-x64-1.0.6.zip&objectKey=6afec29b05b3c57676e02810"
+          },
+          "darwin-arm64": {
+            "name": "cangjie-sdk-mac-aarch64-1.0.6.tar.gz",
+            "sha256": "6839593d0c2b0adf2789c779bbed027d8c21e1101c395580aae10cd0760b611d",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-mac-aarch64-1.0.6.tar.gz&objectKey=6afec28305b3c57676e0280d"
+          },
+          "linux-arm64": {
+            "name": "cangjie-sdk-linux-aarch64-1.0.6.tar.gz",
+            "sha256": "b73ff9aa1cc9d25467997d2adc4dd332303e88754beaee50dde59b043a45a185",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-aarch64-1.0.6.tar.gz&objectKey=6afec29a05b3c57676e0280f"
+          },
+          "linux-x64": {
+            "name": "cangjie-sdk-linux-x64-1.0.6.tar.gz",
+            "sha256": "47893d081695fd21f8ecf6c4d6b2f6d15109d864576f8857db2556d148e98c7e",
+            "url": "https://cangjie-lang.cn/v1/files/auth/downLoad?nsId=142267&fileName=cangjie-sdk-linux-x64-1.0.6.tar.gz&objectKey=6afec29905b3c57676e0280e"
+          }
         }
       },
-      "latest": "1.0.5",
+      "latest": "1.0.6",
       "components": {
         "1.0.0": {
           "docs": {
@@ -269,6 +291,38 @@
           "stdx-docs": {
             "name": "cangjie-stdx-docs-html-1.0.5.1.tar.gz",
             "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.0.5.1/cangjie-stdx-docs-html-1.0.5.1.tar.gz"
+          }
+        },
+        "1.0.6": {
+          "stdx": {
+            "linux-aarch64": {
+              "name": "cangjie-stdx-linux-aarch64-1.0.6.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.0.6.1/cangjie-stdx-linux-aarch64-1.0.6.1.zip"
+            },
+            "linux-x64": {
+              "name": "cangjie-stdx-linux-x64-1.0.6.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.0.6.1/cangjie-stdx-linux-x64-1.0.6.1.zip"
+            },
+            "mac-aarch64": {
+              "name": "cangjie-stdx-mac-aarch64-1.0.6.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.0.6.1/cangjie-stdx-mac-aarch64-1.0.6.1.zip"
+            },
+            "ohos-aarch64": {
+              "name": "cangjie-stdx-ohos-aarch64-1.0.6.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.0.6.1/cangjie-stdx-ohos-aarch64-1.0.6.1.zip"
+            },
+            "ohos-x64": {
+              "name": "cangjie-stdx-ohos-x64-1.0.6.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.0.6.1/cangjie-stdx-ohos-x64-1.0.6.1.zip"
+            },
+            "windows-x64": {
+              "name": "cangjie-stdx-windows-x64-1.0.6.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.0.6.1/cangjie-stdx-windows-x64-1.0.6.1.zip"
+            }
+          },
+          "stdx-docs": {
+            "name": "cangjie-stdx-docs-html-1.0.6.1.tar.gz",
+            "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.0.6.1/cangjie-stdx-docs-html-1.0.6.1.tar.gz"
           }
         }
       }
@@ -946,6 +1000,56 @@
           "docs": {
             "name": "cangjie-docs-html-1.1.5.tar.gz",
             "url": "https://github.com/Zxilly/cangjie-docs-bundle/releases/download/1.1.5/cangjie-docs-html-1.1.5.tar.gz"
+          },
+          "stdx": {
+            "android-aarch64": {
+              "name": "cangjie-stdx-android-aarch64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-android-aarch64-1.1.5.1.zip"
+            },
+            "ios-aarch64": {
+              "name": "cangjie-stdx-ios-aarch64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-ios-aarch64-1.1.5.1.zip"
+            },
+            "ios-simulator-aarch64": {
+              "name": "cangjie-stdx-ios-simulator-aarch64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-ios-simulator-aarch64-1.1.5.1.zip"
+            },
+            "ios-simulator-x64": {
+              "name": "cangjie-stdx-ios-simulator-x64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-ios-simulator-x64-1.1.5.1.zip"
+            },
+            "linux-aarch64": {
+              "name": "cangjie-stdx-linux-aarch64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-linux-aarch64-1.1.5.1.zip"
+            },
+            "linux-x64": {
+              "name": "cangjie-stdx-linux-x64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-linux-x64-1.1.5.1.zip"
+            },
+            "mac-aarch64": {
+              "name": "cangjie-stdx-mac-aarch64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-mac-aarch64-1.1.5.1.zip"
+            },
+            "mac-x64": {
+              "name": "cangjie-stdx-mac-x64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-mac-x64-1.1.5.1.zip"
+            },
+            "ohos-aarch64": {
+              "name": "cangjie-stdx-ohos-aarch64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-ohos-aarch64-1.1.5.1.zip"
+            },
+            "ohos-x64": {
+              "name": "cangjie-stdx-ohos-x64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-ohos-x64-1.1.5.1.zip"
+            },
+            "windows-x64": {
+              "name": "cangjie-stdx-windows-x64-1.1.5.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-windows-x64-1.1.5.1.zip"
+            }
+          },
+          "stdx-docs": {
+            "name": "cangjie-stdx-docs-html-1.1.5.1.tar.gz",
+            "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.1.5.1/cangjie-stdx-docs-html-1.1.5.1.tar.gz"
           }
         },
         "1.2.0": {
@@ -1012,6 +1116,60 @@
           "docs": {
             "name": "cangjie-docs-html-1.2.1.tar.gz",
             "url": "https://github.com/Zxilly/cangjie-docs-bundle/releases/download/1.2.1/cangjie-docs-html-1.2.1.tar.gz"
+          },
+          "stdx": {
+            "android-aarch64": {
+              "name": "cangjie-stdx-android-aarch64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-android-aarch64-1.2.1.1.zip"
+            },
+            "android-arm32": {
+              "name": "cangjie-stdx-android-arm32-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-android-arm32-1.2.1.1.zip"
+            },
+            "ios-aarch64": {
+              "name": "cangjie-stdx-ios-aarch64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-ios-aarch64-1.2.1.1.zip"
+            },
+            "ios-simulator-aarch64": {
+              "name": "cangjie-stdx-ios-simulator-aarch64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-ios-simulator-aarch64-1.2.1.1.zip"
+            },
+            "ios-simulator-x64": {
+              "name": "cangjie-stdx-ios-simulator-x64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-ios-simulator-x64-1.2.1.1.zip"
+            },
+            "linux-aarch64": {
+              "name": "cangjie-stdx-linux-aarch64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-linux-aarch64-1.2.1.1.zip"
+            },
+            "linux-x64": {
+              "name": "cangjie-stdx-linux-x64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-linux-x64-1.2.1.1.zip"
+            },
+            "mac-aarch64": {
+              "name": "cangjie-stdx-mac-aarch64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-mac-aarch64-1.2.1.1.zip"
+            },
+            "mac-x64": {
+              "name": "cangjie-stdx-mac-x64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-mac-x64-1.2.1.1.zip"
+            },
+            "ohos-aarch64": {
+              "name": "cangjie-stdx-ohos-aarch64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-ohos-aarch64-1.2.1.1.zip"
+            },
+            "ohos-x64": {
+              "name": "cangjie-stdx-ohos-x64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-ohos-x64-1.2.1.1.zip"
+            },
+            "windows-x64": {
+              "name": "cangjie-stdx-windows-x64-1.2.1.1.zip",
+              "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-windows-x64-1.2.1.1.zip"
+            }
+          },
+          "stdx-docs": {
+            "name": "cangjie-stdx-docs-html-1.2.1.1.tar.gz",
+            "url": "https://gitcode.com/Cangjie/cangjie_stdx/releases/download/v1.2.1.1/cangjie-stdx-docs-html-1.2.1.1.tar.gz"
           }
         }
       }
